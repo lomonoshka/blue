@@ -1,0 +1,1526 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x2F3b025Bf2D57C47249C107603a6b6FaB0B0E65a",
+    "txHash": "0x2fe603f994cde9b1c2f79bcecfb0e02ce34e373545bfb4da94420a059ac48976",
+    "deployTransaction": {
+      "hash": "0x2fe603f994cde9b1c2f79bcecfb0e02ce34e373545bfb4da94420a059ac48976",
+      "type": 0,
+      "accessList": null,
+      "blockHash": null,
+      "blockNumber": null,
+      "transactionIndex": null,
+      "confirmations": 0,
+      "from": "0x857851EE6E398651Cb7C72462cc7Ce2A94d8f1C6",
+      "gasPrice": {
+        "type": "BigNumber",
+        "hex": "0x05f5e100"
+      },
+      "gasLimit": {
+        "type": "BigNumber",
+        "hex": "0x0bf6c6"
+      },
+      "to": null,
+      "value": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "nonce": 49,
+      "data": "0x608060405234801561001057600080fd5b50600080546001600160a01b031916339081178255604051909182917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0908290a350610759806100616000396000f3fe60806040526004361061007b5760003560e01c80639623609d1161004e5780639623609d1461011157806399a88ec414610124578063f2fde38b14610144578063f3b7dead146101645761007b565b8063204e1c7a14610080578063715018a6146100bc5780637eff275e146100d35780638da5cb5b146100f3575b600080fd5b34801561008c57600080fd5b506100a061009b366004610515565b610184565b6040516001600160a01b03909116815260200160405180910390f35b3480156100c857600080fd5b506100d1610215565b005b3480156100df57600080fd5b506100d16100ee366004610554565b610292565b3480156100ff57600080fd5b506000546001600160a01b03166100a0565b6100d161011f36600461058c565b61031c565b34801561013057600080fd5b506100d161013f366004610554565b6103ad565b34801561015057600080fd5b506100d161015f366004610515565b610405565b34801561017057600080fd5b506100a061017f366004610515565b6104ef565b6000806000836001600160a01b03166040516101aa90635c60da1b60e01b815260040190565b600060405180830381855afa9150503d80600081146101e5576040519150601f19603f3d011682016040523d82523d6000602084013e6101ea565b606091505b5091509150816101f957600080fd5b8080602001905181019061020d9190610538565b949350505050565b6000546001600160a01b031633146102485760405162461bcd60e51b815260040161023f906106c0565b60405180910390fd5b600080546040516001600160a01b03909116907f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0908390a3600080546001600160a01b0319169055565b6000546001600160a01b031633146102bc5760405162461bcd60e51b815260040161023f906106c0565b6040516308f2839760e41b81526001600160a01b038281166004830152831690638f283970906024015b600060405180830381600087803b15801561030057600080fd5b505af1158015610314573d6000803e3d6000fd5b505050505050565b6000546001600160a01b031633146103465760405162461bcd60e51b815260040161023f906106c0565b60405163278f794360e11b81526001600160a01b03841690634f1ef286903490610376908690869060040161065d565b6000604051808303818588803b15801561038f57600080fd5b505af11580156103a3573d6000803e3d6000fd5b5050505050505050565b6000546001600160a01b031633146103d75760405162461bcd60e51b815260040161023f906106c0565b604051631b2ce7f360e11b81526001600160a01b038281166004830152831690633659cfe6906024016102e6565b6000546001600160a01b0316331461042f5760405162461bcd60e51b815260040161023f906106c0565b6001600160a01b0381166104945760405162461bcd60e51b815260206004820152602660248201527f4f776e61626c653a206e6577206f776e657220697320746865207a65726f206160448201526564647265737360d01b606482015260840161023f565b600080546040516001600160a01b03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a3600080546001600160a01b0319166001600160a01b0392909216919091179055565b6000806000836001600160a01b03166040516101aa906303e1469160e61b815260040190565b600060208284031215610526578081fd5b81356105318161070b565b9392505050565b600060208284031215610549578081fd5b81516105318161070b565b60008060408385031215610566578081fd5b82356105718161070b565b915060208301356105818161070b565b809150509250929050565b6000806000606084860312156105a0578081fd5b83356105ab8161070b565b925060208401356105bb8161070b565b9150604084013567ffffffffffffffff808211156105d7578283fd5b818601915086601f8301126105ea578283fd5b8135818111156105fc576105fc6106f5565b604051601f8201601f19908116603f01168101908382118183101715610624576106246106f5565b8160405282815289602084870101111561063c578586fd5b82602086016020830137856020848301015280955050505050509250925092565b600060018060a01b038416825260206040818401528351806040850152825b818110156106985785810183015185820160600152820161067c565b818111156106a95783606083870101525b50601f01601f191692909201606001949350505050565b6020808252818101527f4f776e61626c653a2063616c6c6572206973206e6f7420746865206f776e6572604082015260600190565b634e487b7160e01b600052604160045260246000fd5b6001600160a01b038116811461072057600080fd5b5056fea2646970667358221220d849f96f3086b9f82cdcf665adb8c697ace05638da1c7c16ab2d26293717af6764736f6c63430008020033",
+      "r": "0x65a1090aecad0a1909851b5a1284c5be6ad8bdcdc3db154b5ad65426ba90a860",
+      "s": "0x316bd59f8701043540ff488ca44e7e731521689ca0fcce646c7f0d45b7348fb8",
+      "v": 167,
+      "creates": "0x2F3b025Bf2D57C47249C107603a6b6FaB0B0E65a",
+      "chainId": 66
+    }
+  },
+  "proxies": [
+    {
+      "address": "0x394c9d8eF668e1f28ef78E5AA42DccF3EcCc2245",
+      "txHash": "0xd7a509b4d8f977aadf133a3c328c304b8ebc917297504fc888beb1f7e68b3901",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "df7c6d7e6f459035f3d9e91177ace24a8eb51e53b060a2b6465072edb82bae7e": {
+      "address": "0x55f71e9de1f2B0ddD2bf58cAb76c0595c0972418",
+      "txHash": "0xd432b38c9b327d84489b04b64677fcca02cebca0e708a7babb913ead44304a25",
+      "layout": {
+        "storage": [
+          {
+            "contract": "ExchangeStorage",
+            "label": "filledAmounts",
+            "type": "t_mapping(t_bytes32,t_uint192)",
+            "src": "contracts/ExchangeStorage.sol:17"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetBalances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_int192))",
+            "src": "contracts/ExchangeStorage.sol:21"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liabilities",
+            "type": "t_mapping(t_address,t_array(t_struct(Liability)8362_storage)dyn_storage)",
+            "src": "contracts/ExchangeStorage.sol:23"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "collateralAssets",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "contracts/ExchangeStorage.sol:25"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetRisks",
+            "type": "t_mapping(t_address,t_uint8)",
+            "src": "contracts/ExchangeStorage.sol:26"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "stakeRisk",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:28"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liquidationPremium",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:30"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "priceOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:32"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "positionOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:33"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_orionToken",
+            "type": "t_contract(IERC20)4859",
+            "src": "contracts/ExchangeStorage.sol:36"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_oracleAddress",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:38"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_allowedMatcher",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:40"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initialized",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:26"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initializing",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:31"
+          },
+          {
+            "contract": "Initializable",
+            "label": "______gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Initializable.sol:66"
+          },
+          {
+            "contract": "ContextUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Context.sol:42"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "_owner",
+            "type": "t_address",
+            "src": "contracts/utils/Ownable.sol:23"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "contracts/utils/Ownable.sol:83"
+          },
+          {
+            "contract": "OrionVault",
+            "label": "stakingData",
+            "type": "t_mapping(t_address,t_struct(Stake)4093_storage)",
+            "src": "contracts/OrionVault.sol:19"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "_orionpoolRouter",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:16"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "orionpoolAllowances",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "contracts/ExchangeWithOrionPool.sol:17"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "WETH",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:19"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "atomicSwaps",
+            "type": "t_mapping(t_bytes32,t_struct(LockInfo)5109_storage)",
+            "src": "contracts/ExchangeWithAtomic.sol:9"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "secrets",
+            "type": "t_mapping(t_bytes32,t_bool)",
+            "src": "contracts/ExchangeWithAtomic.sol:10"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes32,t_struct(LockInfo)5109_storage)": {
+            "label": "mapping(bytes32 => struct LibAtomic.LockInfo)"
+          },
+          "t_bytes32": {
+            "label": "bytes32"
+          },
+          "t_struct(LockInfo)5109_storage": {
+            "label": "struct LibAtomic.LockInfo",
+            "members": [
+              {
+                "label": "sender",
+                "type": "t_address"
+              },
+              {
+                "label": "expiration",
+                "type": "t_uint64"
+              },
+              {
+                "label": "used",
+                "type": "t_bool"
+              },
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "targetChainId",
+                "type": "t_uint24"
+              }
+            ]
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint24": {
+            "label": "uint24"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_mapping(t_address,t_struct(Stake)4093_storage)": {
+            "label": "mapping(address => struct OrionVault.Stake)"
+          },
+          "t_struct(Stake)4093_storage": {
+            "label": "struct OrionVault.Stake",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "phase",
+                "type": "t_enum(StakePhase)4086"
+              },
+              {
+                "label": "lastActionTimestamp",
+                "type": "t_uint64"
+              }
+            ]
+          },
+          "t_enum(StakePhase)4086": {
+            "label": "enum OrionVault.StakePhase",
+            "members": [
+              "NOTSTAKED",
+              "LOCKED",
+              "RELEASING",
+              "READYTORELEASE",
+              "FROZEN"
+            ]
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_mapping(t_bytes32,t_uint192)": {
+            "label": "mapping(bytes32 => uint192)"
+          },
+          "t_uint192": {
+            "label": "uint192"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_int192))": {
+            "label": "mapping(address => mapping(address => int192))"
+          },
+          "t_mapping(t_address,t_int192)": {
+            "label": "mapping(address => int192)"
+          },
+          "t_int192": {
+            "label": "int192"
+          },
+          "t_mapping(t_address,t_array(t_struct(Liability)8362_storage)dyn_storage)": {
+            "label": "mapping(address => struct MarginalFunctionality.Liability[])"
+          },
+          "t_array(t_struct(Liability)8362_storage)dyn_storage": {
+            "label": "struct MarginalFunctionality.Liability[]"
+          },
+          "t_struct(Liability)8362_storage": {
+            "label": "struct MarginalFunctionality.Liability",
+            "members": [
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "timestamp",
+                "type": "t_uint64"
+              },
+              {
+                "label": "outstandingAmount",
+                "type": "t_uint192"
+              }
+            ]
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_mapping(t_address,t_uint8)": {
+            "label": "mapping(address => uint8)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_contract(IERC20)4859": {
+            "label": "contract IERC20"
+          }
+        }
+      }
+    },
+    "afa7cb4850e3c810ec39f3ed6d18d87f43cdf0556f580a6db4d8a671e61ed08c": {
+      "address": "0x4C68CCA1233Ce2D7fF8451aeC7df693F2Ca6974f",
+      "txHash": "0x8d53e1961cf7b38322746aeac1c73ec2b87f4a0b45d454f843389e0054ebd781",
+      "layout": {
+        "storage": [
+          {
+            "contract": "ExchangeStorage",
+            "label": "filledAmounts",
+            "type": "t_mapping(t_bytes32,t_uint192)",
+            "src": "contracts/ExchangeStorage.sol:17"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetBalances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_int192))",
+            "src": "contracts/ExchangeStorage.sol:21"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liabilities",
+            "type": "t_mapping(t_address,t_array(t_struct(Liability)5252_storage)dyn_storage)",
+            "src": "contracts/ExchangeStorage.sol:23"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "collateralAssets",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "contracts/ExchangeStorage.sol:25"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetRisks",
+            "type": "t_mapping(t_address,t_uint8)",
+            "src": "contracts/ExchangeStorage.sol:26"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "stakeRisk",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:28"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liquidationPremium",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:30"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "priceOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:32"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "positionOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:33"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_orionToken",
+            "type": "t_contract(IERC20)1668",
+            "src": "contracts/ExchangeStorage.sol:36"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_oracleAddress",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:38"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_allowedMatcher",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:40"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initialized",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:22"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initializing",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:27"
+          },
+          {
+            "contract": "Initializable",
+            "label": "______gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Initializable.sol:62"
+          },
+          {
+            "contract": "ContextUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Context.sol:40"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "_owner",
+            "type": "t_address",
+            "src": "contracts/utils/Ownable.sol:20"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "contracts/utils/Ownable.sol:80"
+          },
+          {
+            "contract": "OrionVault",
+            "label": "stakingData",
+            "type": "t_mapping(t_address,t_struct(Stake)1443_storage)",
+            "src": "contracts/OrionVault.sol:19"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "_orionpoolRouter",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:16"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "orionpoolAllowances",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "contracts/ExchangeWithOrionPool.sol:17"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "WETH",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:19"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "atomicSwaps",
+            "type": "t_mapping(t_bytes32,t_struct(LockInfo)1854_storage)",
+            "src": "contracts/ExchangeWithAtomic.sol:11"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "secrets",
+            "type": "t_mapping(t_bytes32,t_bool)",
+            "src": "contracts/ExchangeWithAtomic.sol:12"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes32,t_struct(LockInfo)1854_storage)": {
+            "label": "mapping(bytes32 => struct LibAtomic.LockInfo)"
+          },
+          "t_bytes32": {
+            "label": "bytes32"
+          },
+          "t_struct(LockInfo)1854_storage": {
+            "label": "struct LibAtomic.LockInfo",
+            "members": [
+              {
+                "label": "sender",
+                "type": "t_address"
+              },
+              {
+                "label": "expiration",
+                "type": "t_uint64"
+              },
+              {
+                "label": "used",
+                "type": "t_bool"
+              },
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "targetChainId",
+                "type": "t_uint24"
+              }
+            ]
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint24": {
+            "label": "uint24"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_mapping(t_address,t_struct(Stake)1443_storage)": {
+            "label": "mapping(address => struct OrionVault.Stake)"
+          },
+          "t_struct(Stake)1443_storage": {
+            "label": "struct OrionVault.Stake",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "phase",
+                "type": "t_enum(StakePhase)1436"
+              },
+              {
+                "label": "lastActionTimestamp",
+                "type": "t_uint64"
+              }
+            ]
+          },
+          "t_enum(StakePhase)1436": {
+            "label": "enum OrionVault.StakePhase",
+            "members": [
+              "NOTSTAKED",
+              "LOCKED",
+              "RELEASING",
+              "READYTORELEASE",
+              "FROZEN"
+            ]
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_mapping(t_bytes32,t_uint192)": {
+            "label": "mapping(bytes32 => uint192)"
+          },
+          "t_uint192": {
+            "label": "uint192"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_int192))": {
+            "label": "mapping(address => mapping(address => int192))"
+          },
+          "t_mapping(t_address,t_int192)": {
+            "label": "mapping(address => int192)"
+          },
+          "t_int192": {
+            "label": "int192"
+          },
+          "t_mapping(t_address,t_array(t_struct(Liability)5252_storage)dyn_storage)": {
+            "label": "mapping(address => struct MarginalFunctionality.Liability[])"
+          },
+          "t_array(t_struct(Liability)5252_storage)dyn_storage": {
+            "label": "struct MarginalFunctionality.Liability[]"
+          },
+          "t_struct(Liability)5252_storage": {
+            "label": "struct MarginalFunctionality.Liability",
+            "members": [
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "timestamp",
+                "type": "t_uint64"
+              },
+              {
+                "label": "outstandingAmount",
+                "type": "t_uint192"
+              }
+            ]
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_mapping(t_address,t_uint8)": {
+            "label": "mapping(address => uint8)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_contract(IERC20)1668": {
+            "label": "contract IERC20"
+          }
+        }
+      }
+    },
+    "72abaf75aa905439a7a01b7be9305bd0d1747533145e9b6b932f459dae973abf": {
+      "address": "0x289c92A5495A9922570ED0B89889f15c4f7e2F70",
+      "txHash": "0x57f530bd21f535ad57bc7deaf7a8dfa3e655f89f9303a5ec2f4f3a1a64d4c464",
+      "layout": {
+        "storage": [
+          {
+            "contract": "ExchangeStorage",
+            "label": "filledAmounts",
+            "type": "t_mapping(t_bytes32,t_uint192)",
+            "src": "contracts/ExchangeStorage.sol:17"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetBalances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_int192))",
+            "src": "contracts/ExchangeStorage.sol:21"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liabilities",
+            "type": "t_mapping(t_address,t_array(t_struct(Liability)5250_storage)dyn_storage)",
+            "src": "contracts/ExchangeStorage.sol:23"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "collateralAssets",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "contracts/ExchangeStorage.sol:25"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetRisks",
+            "type": "t_mapping(t_address,t_uint8)",
+            "src": "contracts/ExchangeStorage.sol:26"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "stakeRisk",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:28"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liquidationPremium",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:30"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "priceOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:32"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "positionOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:33"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_orionToken",
+            "type": "t_contract(IERC20)1666",
+            "src": "contracts/ExchangeStorage.sol:36"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_oracleAddress",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:38"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_allowedMatcher",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:40"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initialized",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:22"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initializing",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:27"
+          },
+          {
+            "contract": "Initializable",
+            "label": "______gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Initializable.sol:62"
+          },
+          {
+            "contract": "ContextUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Context.sol:40"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "_owner",
+            "type": "t_address",
+            "src": "contracts/utils/Ownable.sol:20"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "contracts/utils/Ownable.sol:80"
+          },
+          {
+            "contract": "OrionVault",
+            "label": "stakingData",
+            "type": "t_mapping(t_address,t_struct(Stake)1441_storage)",
+            "src": "contracts/OrionVault.sol:19"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "_orionpoolRouter",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:16"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "orionpoolAllowances",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "contracts/ExchangeWithOrionPool.sol:17"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "WETH",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:19"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "atomicSwaps",
+            "type": "t_mapping(t_bytes32,t_struct(LockInfo)1852_storage)",
+            "src": "contracts/ExchangeWithAtomic.sol:11"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "secrets",
+            "type": "t_mapping(t_bytes32,t_bool)",
+            "src": "contracts/ExchangeWithAtomic.sol:12"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes32,t_struct(LockInfo)1852_storage)": {
+            "label": "mapping(bytes32 => struct LibAtomic.LockInfo)"
+          },
+          "t_bytes32": {
+            "label": "bytes32"
+          },
+          "t_struct(LockInfo)1852_storage": {
+            "label": "struct LibAtomic.LockInfo",
+            "members": [
+              {
+                "label": "sender",
+                "type": "t_address"
+              },
+              {
+                "label": "expiration",
+                "type": "t_uint64"
+              },
+              {
+                "label": "used",
+                "type": "t_bool"
+              },
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "targetChainId",
+                "type": "t_uint24"
+              }
+            ]
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint24": {
+            "label": "uint24"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_mapping(t_address,t_struct(Stake)1441_storage)": {
+            "label": "mapping(address => struct OrionVault.Stake)"
+          },
+          "t_struct(Stake)1441_storage": {
+            "label": "struct OrionVault.Stake",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "phase",
+                "type": "t_enum(StakePhase)1434"
+              },
+              {
+                "label": "lastActionTimestamp",
+                "type": "t_uint64"
+              }
+            ]
+          },
+          "t_enum(StakePhase)1434": {
+            "label": "enum OrionVault.StakePhase",
+            "members": [
+              "NOTSTAKED",
+              "LOCKED",
+              "RELEASING",
+              "READYTORELEASE",
+              "FROZEN"
+            ]
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_mapping(t_bytes32,t_uint192)": {
+            "label": "mapping(bytes32 => uint192)"
+          },
+          "t_uint192": {
+            "label": "uint192"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_int192))": {
+            "label": "mapping(address => mapping(address => int192))"
+          },
+          "t_mapping(t_address,t_int192)": {
+            "label": "mapping(address => int192)"
+          },
+          "t_int192": {
+            "label": "int192"
+          },
+          "t_mapping(t_address,t_array(t_struct(Liability)5250_storage)dyn_storage)": {
+            "label": "mapping(address => struct MarginalFunctionality.Liability[])"
+          },
+          "t_array(t_struct(Liability)5250_storage)dyn_storage": {
+            "label": "struct MarginalFunctionality.Liability[]"
+          },
+          "t_struct(Liability)5250_storage": {
+            "label": "struct MarginalFunctionality.Liability",
+            "members": [
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "timestamp",
+                "type": "t_uint64"
+              },
+              {
+                "label": "outstandingAmount",
+                "type": "t_uint192"
+              }
+            ]
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_mapping(t_address,t_uint8)": {
+            "label": "mapping(address => uint8)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_contract(IERC20)1666": {
+            "label": "contract IERC20"
+          }
+        }
+      }
+    },
+    "0a451ae48aac9e20f56e2417b588cbe35d1df12fb25b65e65dba488c06cd1c3c": {
+      "address": "0xad29C66C47B2dF26682a67eD3b894F834171d499",
+      "txHash": "0x8560e4f279c1c3a139acf51a7a70040d66f581fa12fd36a72ffa7b0d28974263",
+      "layout": {
+        "storage": [
+          {
+            "contract": "ExchangeStorage",
+            "label": "filledAmounts",
+            "type": "t_mapping(t_bytes32,t_uint192)",
+            "src": "contracts/ExchangeStorage.sol:17"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetBalances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_int192))",
+            "src": "contracts/ExchangeStorage.sol:21"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liabilities",
+            "type": "t_mapping(t_address,t_array(t_struct(Liability)5385_storage)dyn_storage)",
+            "src": "contracts/ExchangeStorage.sol:23"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "collateralAssets",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "contracts/ExchangeStorage.sol:25"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetRisks",
+            "type": "t_mapping(t_address,t_uint8)",
+            "src": "contracts/ExchangeStorage.sol:26"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "stakeRisk",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:28"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liquidationPremium",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:30"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "priceOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:32"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "positionOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:33"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_orionToken",
+            "type": "t_contract(IERC20)1801",
+            "src": "contracts/ExchangeStorage.sol:36"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_oracleAddress",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:38"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_allowedMatcher",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:40"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initialized",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:22"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initializing",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:27"
+          },
+          {
+            "contract": "Initializable",
+            "label": "______gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Initializable.sol:62"
+          },
+          {
+            "contract": "ContextUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Context.sol:40"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "_owner",
+            "type": "t_address",
+            "src": "contracts/utils/Ownable.sol:20"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "contracts/utils/Ownable.sol:80"
+          },
+          {
+            "contract": "OrionVault",
+            "label": "stakingData",
+            "type": "t_mapping(t_address,t_struct(Stake)1576_storage)",
+            "src": "contracts/OrionVault.sol:19"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "_orionpoolRouter",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:16"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "orionpoolAllowances",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "contracts/ExchangeWithOrionPool.sol:17"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "WETH",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:19"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "atomicSwaps",
+            "type": "t_mapping(t_bytes32,t_struct(LockInfo)1987_storage)",
+            "src": "contracts/ExchangeWithAtomic.sol:11"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "secrets",
+            "type": "t_mapping(t_bytes32,t_bool)",
+            "src": "contracts/ExchangeWithAtomic.sol:12"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes32,t_struct(LockInfo)1987_storage)": {
+            "label": "mapping(bytes32 => struct LibAtomic.LockInfo)"
+          },
+          "t_bytes32": {
+            "label": "bytes32"
+          },
+          "t_struct(LockInfo)1987_storage": {
+            "label": "struct LibAtomic.LockInfo",
+            "members": [
+              {
+                "label": "sender",
+                "type": "t_address"
+              },
+              {
+                "label": "expiration",
+                "type": "t_uint64"
+              },
+              {
+                "label": "used",
+                "type": "t_bool"
+              },
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "targetChainId",
+                "type": "t_uint24"
+              }
+            ]
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint24": {
+            "label": "uint24"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_mapping(t_address,t_struct(Stake)1576_storage)": {
+            "label": "mapping(address => struct OrionVault.Stake)"
+          },
+          "t_struct(Stake)1576_storage": {
+            "label": "struct OrionVault.Stake",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "phase",
+                "type": "t_enum(StakePhase)1569"
+              },
+              {
+                "label": "lastActionTimestamp",
+                "type": "t_uint64"
+              }
+            ]
+          },
+          "t_enum(StakePhase)1569": {
+            "label": "enum OrionVault.StakePhase",
+            "members": [
+              "NOTSTAKED",
+              "LOCKED",
+              "RELEASING",
+              "READYTORELEASE",
+              "FROZEN"
+            ]
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_mapping(t_bytes32,t_uint192)": {
+            "label": "mapping(bytes32 => uint192)"
+          },
+          "t_uint192": {
+            "label": "uint192"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_int192))": {
+            "label": "mapping(address => mapping(address => int192))"
+          },
+          "t_mapping(t_address,t_int192)": {
+            "label": "mapping(address => int192)"
+          },
+          "t_int192": {
+            "label": "int192"
+          },
+          "t_mapping(t_address,t_array(t_struct(Liability)5385_storage)dyn_storage)": {
+            "label": "mapping(address => struct MarginalFunctionality.Liability[])"
+          },
+          "t_array(t_struct(Liability)5385_storage)dyn_storage": {
+            "label": "struct MarginalFunctionality.Liability[]"
+          },
+          "t_struct(Liability)5385_storage": {
+            "label": "struct MarginalFunctionality.Liability",
+            "members": [
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "timestamp",
+                "type": "t_uint64"
+              },
+              {
+                "label": "outstandingAmount",
+                "type": "t_uint192"
+              }
+            ]
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_mapping(t_address,t_uint8)": {
+            "label": "mapping(address => uint8)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_contract(IERC20)1801": {
+            "label": "contract IERC20"
+          }
+        }
+      }
+    },
+    "15f0db40f605365595abe320d6696b2cac2303682c13fa8a716cf2f6f410e014": {
+      "address": "0xBCa183e7Ab6a1bec270Ea94FD05CD307b00c57a7",
+      "txHash": "0xc11e6d70c11c4021cc4d890075a254350277385e1c21c43fc1da53b4baa0db0d",
+      "layout": {
+        "storage": [
+          {
+            "contract": "ExchangeStorage",
+            "label": "filledAmounts",
+            "type": "t_mapping(t_bytes32,t_uint192)",
+            "src": "contracts/ExchangeStorage.sol:17"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetBalances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_int192))",
+            "src": "contracts/ExchangeStorage.sol:21"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liabilities",
+            "type": "t_mapping(t_address,t_array(t_struct(Liability)8713_storage)dyn_storage)",
+            "src": "contracts/ExchangeStorage.sol:23"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "collateralAssets",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "contracts/ExchangeStorage.sol:25"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "assetRisks",
+            "type": "t_mapping(t_address,t_uint8)",
+            "src": "contracts/ExchangeStorage.sol:26"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "stakeRisk",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:28"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "liquidationPremium",
+            "type": "t_uint8",
+            "src": "contracts/ExchangeStorage.sol:30"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "priceOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:32"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "positionOverdue",
+            "type": "t_uint64",
+            "src": "contracts/ExchangeStorage.sol:33"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_orionToken",
+            "type": "t_contract(IERC20)4917",
+            "src": "contracts/ExchangeStorage.sol:36"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_oracleAddress",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:38"
+          },
+          {
+            "contract": "ExchangeStorage",
+            "label": "_allowedMatcher",
+            "type": "t_address",
+            "src": "contracts/ExchangeStorage.sol:40"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initialized",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:22"
+          },
+          {
+            "contract": "Initializable",
+            "label": "initializing",
+            "type": "t_bool",
+            "src": "contracts/utils/Initializable.sol:27"
+          },
+          {
+            "contract": "Initializable",
+            "label": "______gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Initializable.sol:62"
+          },
+          {
+            "contract": "ContextUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)50_storage",
+            "src": "contracts/utils/Context.sol:40"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "_owner",
+            "type": "t_address",
+            "src": "contracts/utils/Ownable.sol:20"
+          },
+          {
+            "contract": "OwnableUpgradeSafe",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "contracts/utils/Ownable.sol:80"
+          },
+          {
+            "contract": "OrionVault",
+            "label": "stakingData",
+            "type": "t_mapping(t_address,t_struct(Stake)4151_storage)",
+            "src": "contracts/OrionVault.sol:19"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "_orionpoolRouter",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:16"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "orionpoolAllowances",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "contracts/ExchangeWithOrionPool.sol:17"
+          },
+          {
+            "contract": "ExchangeWithOrionPool",
+            "label": "WETH",
+            "type": "t_address",
+            "src": "contracts/ExchangeWithOrionPool.sol:19"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "atomicSwaps",
+            "type": "t_mapping(t_bytes32,t_struct(LockInfo)5125_storage)",
+            "src": "contracts/ExchangeWithAtomic.sol:11"
+          },
+          {
+            "contract": "ExchangeWithAtomic",
+            "label": "secrets",
+            "type": "t_mapping(t_bytes32,t_bool)",
+            "src": "contracts/ExchangeWithAtomic.sol:12"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes32,t_struct(LockInfo)5125_storage)": {
+            "label": "mapping(bytes32 => struct LibAtomic.LockInfo)"
+          },
+          "t_bytes32": {
+            "label": "bytes32"
+          },
+          "t_struct(LockInfo)5125_storage": {
+            "label": "struct LibAtomic.LockInfo",
+            "members": [
+              {
+                "label": "sender",
+                "type": "t_address"
+              },
+              {
+                "label": "expiration",
+                "type": "t_uint64"
+              },
+              {
+                "label": "used",
+                "type": "t_bool"
+              },
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "targetChainId",
+                "type": "t_uint24"
+              }
+            ]
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint24": {
+            "label": "uint24"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_mapping(t_address,t_struct(Stake)4151_storage)": {
+            "label": "mapping(address => struct OrionVault.Stake)"
+          },
+          "t_struct(Stake)4151_storage": {
+            "label": "struct OrionVault.Stake",
+            "members": [
+              {
+                "label": "amount",
+                "type": "t_uint64"
+              },
+              {
+                "label": "phase",
+                "type": "t_enum(StakePhase)4144"
+              },
+              {
+                "label": "lastActionTimestamp",
+                "type": "t_uint64"
+              }
+            ]
+          },
+          "t_enum(StakePhase)4144": {
+            "label": "enum OrionVault.StakePhase",
+            "members": [
+              "NOTSTAKED",
+              "LOCKED",
+              "RELEASING",
+              "READYTORELEASE",
+              "FROZEN"
+            ]
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_mapping(t_bytes32,t_uint192)": {
+            "label": "mapping(bytes32 => uint192)"
+          },
+          "t_uint192": {
+            "label": "uint192"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_int192))": {
+            "label": "mapping(address => mapping(address => int192))"
+          },
+          "t_mapping(t_address,t_int192)": {
+            "label": "mapping(address => int192)"
+          },
+          "t_int192": {
+            "label": "int192"
+          },
+          "t_mapping(t_address,t_array(t_struct(Liability)8713_storage)dyn_storage)": {
+            "label": "mapping(address => struct MarginalFunctionality.Liability[])"
+          },
+          "t_array(t_struct(Liability)8713_storage)dyn_storage": {
+            "label": "struct MarginalFunctionality.Liability[]"
+          },
+          "t_struct(Liability)8713_storage": {
+            "label": "struct MarginalFunctionality.Liability",
+            "members": [
+              {
+                "label": "asset",
+                "type": "t_address"
+              },
+              {
+                "label": "timestamp",
+                "type": "t_uint64"
+              },
+              {
+                "label": "outstandingAmount",
+                "type": "t_uint192"
+              }
+            ]
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_mapping(t_address,t_uint8)": {
+            "label": "mapping(address => uint8)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_contract(IERC20)4917": {
+            "label": "contract IERC20"
+          }
+        }
+      }
+    }
+  }
+}

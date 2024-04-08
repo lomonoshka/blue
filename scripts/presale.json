@@ -1,0 +1,3104 @@
+[
+	{
+		"account": "0x48f3a147d66b9f9cc2bc687b1b54c3251e7460cb",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xd52f6234d544b4c08a87dacb16762d05a2653183",
+		"totalEthTransferred": 0.06360406765614764,
+		"weight": 0.07950508457018454,
+		"tokenAmount": 233297990.12597194
+	},
+	{
+		"account": "0x78d0df803c91792bdf018dc3ac8a2a3991cedd42",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x6adcf50f854479d8bc7aeb3f26e27933edf87d8c",
+		"totalEthTransferred": 1.013,
+		"weight": 1.2662499999999999,
+		"tokenAmount": 3715656446.3022523
+	},
+	{
+		"account": "0x194604e7c329eca5ef88df77e947129cc2ca0c18",
+		"totalEthTransferred": 1.7,
+		"weight": 2.125,
+		"tokenAmount": 6235553759.835962
+	},
+	{
+		"account": "0xa3b40f5f9eb7204ffa7690829b4ad8d19767688f",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xa9322a10a157ebfb2bb6ae06683ff7461c98b699",
+		"totalEthTransferred": 0.8806,
+		"weight": 1.1007500000000001,
+		"tokenAmount": 3230016847.5950284
+	},
+	{
+		"account": "0xcc058f6960ab2994c1e4e9bff414d990f54b93f0",
+		"totalEthTransferred": 0.069,
+		"weight": 0.08625000000000001,
+		"tokenAmount": 253090123.193342
+	},
+	{
+		"account": "0x9f4d05490d6b8ef836fe36431e35af6aed5b5d22",
+		"totalEthTransferred": 1.4,
+		"weight": 1.75,
+		"tokenAmount": 5135161919.86491
+	},
+	{
+		"account": "0xf2495ec7c4f054a8fb0b4cc36bbce80eae1be62f",
+		"totalEthTransferred": 0.11900000000000001,
+		"weight": 0.13625,
+		"tokenAmount": 399809035.18948233
+	},
+	{
+		"account": "0xee8e588cc62712e0f3935832e257c17301747f28",
+		"totalEthTransferred": 0.055,
+		"weight": 0.06875,
+		"tokenAmount": 201738503.99469292
+	},
+	{
+		"account": "0x245883a498ca717f496494de8b53454034f22778",
+		"totalEthTransferred": 0.7108,
+		"weight": 0.8885,
+		"tokenAmount": 2607195066.171413
+	},
+	{
+		"account": "0x4fa93fe41ce48ca43ccf59c134cd1bb832c7cc4f",
+		"totalEthTransferred": 1.95,
+		"weight": 2.4375,
+		"tokenAmount": 7152546959.811839
+	},
+	{
+		"account": "0x6b6953f5b35e773314fca38eab2fa6dde005e2e2",
+		"totalEthTransferred": 0.5508,
+		"weight": 0.6884999999999999,
+		"tokenAmount": 2020319418.1868515
+	},
+	{
+		"account": "0xf1e686bcdf09d80acc8ae9b704213622520c91b2",
+		"totalEthTransferred": 1.501,
+		"weight": 1.8762499999999998,
+		"tokenAmount": 5505627172.655164
+	},
+	{
+		"account": "0xc001bc81bad89cfc35b4ea0d5d77cba77739fdac",
+		"totalEthTransferred": 0.2,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0xe4423574bfd0850cee499d86a5fb40dd9030ccd1",
+		"totalEthTransferred": 0.5098,
+		"weight": 0.6372500000000001,
+		"tokenAmount": 1869932533.3908083
+	},
+	{
+		"account": "0x56916accdb481a3a75a8a5111175aa0d6a734d54",
+		"totalEthTransferred": 0.456,
+		"weight": 0.5700000000000001,
+		"tokenAmount": 1672595596.7559998
+	},
+	{
+		"account": "0x96947abcfa718afcc49daab8b1f83dbf16e60716",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xee2ee6183b1245ff7491dbc7017063dac1c1924c",
+		"totalEthTransferred": 0.13,
+		"weight": 0.1625,
+		"tokenAmount": 476836463.98745596
+	},
+	{
+		"account": "0x70bb860ff3ae1a96f258b9dc27a2b386da9b122f",
+		"totalEthTransferred": 2,
+		"weight": 2.5,
+		"tokenAmount": 7335945599.807014
+	},
+	{
+		"account": "0x3dfcefebb3feabcdb325ffb97482bfd61228bcad",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x03b22db94ab981c4edbcae9f6a798f6c328b3f50",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0xa12f62c09ded18263fb739ec0da6056c858ec727",
+		"totalEthTransferred": 1.5,
+		"weight": 1.875,
+		"tokenAmount": 5501959199.855261
+	},
+	{
+		"account": "0x6ae92a5ffbe3b8ee39b8f6b04013fd59ce046b88",
+		"totalEthTransferred": 0.3708,
+		"weight": 0.4635,
+		"tokenAmount": 1360084314.2042205
+	},
+	{
+		"account": "0xcbe5ad06974f0b8bf6f0eb3f773c83e0c862911c",
+		"totalEthTransferred": 0.28,
+		"weight": 0.35000000000000003,
+		"tokenAmount": 1027032383.9729823
+	},
+	{
+		"account": "0xd84153018b3b1b06927136ec54bf661020caefdc",
+		"totalEthTransferred": 0.3498,
+		"weight": 0.43725,
+		"tokenAmount": 1283056885.406247
+	},
+	{
+		"account": "0xe05ad7dc6ed660dcba7e84a5b47de3ad8ac11bc1",
+		"totalEthTransferred": 0.06,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x22186a9c116d2a6631a9f7f02bcf561911ac8509",
+		"totalEthTransferred": 0.07381,
+		"weight": 0.0922625,
+		"tokenAmount": 270733072.3608779
+	},
+	{
+		"account": "0x9515ddea179417e2ce0daf5e850e986ada330eb3",
+		"totalEthTransferred": 0.2998,
+		"weight": 0.37475,
+		"tokenAmount": 1099658245.4110715
+	},
+	{
+		"account": "0xe0fa78caa8391ee0d382e3ed22460ed96cb1acad",
+		"totalEthTransferred": 0.95,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0xe8ffba512891ae1ba60d8016c14225af1d4a2803",
+		"totalEthTransferred": 0.068,
+		"weight": 0.085,
+		"tokenAmount": 249422150.39343852
+	},
+	{
+		"account": "0x7f1076bc76adf5e51bbf35c93320c9b3a77f0540",
+		"totalEthTransferred": 0.5,
+		"weight": 0.625,
+		"tokenAmount": 1833986399.9517536
+	},
+	{
+		"account": "0x8bfb6e3b1a47af7b26019ef75bdef36d6034f198",
+		"totalEthTransferred": 0.615216648634389,
+		"weight": 0.7690208107929862,
+		"tokenAmount": 2256597933.238732
+	},
+	{
+		"account": "0x3fed4a92bc35ac4761c66a68c0dd6c90336bb8ba",
+		"totalEthTransferred": 0.15438030971777733,
+		"weight": 0.19297538714722168,
+		"tokenAmount": 566262776.8854864
+	},
+	{
+		"account": "0xe52f7ac1a9153b2e8a011de0f7ec79c8dc3776bc",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x142f1535e5cf8c5b38cd26669d526bb9bf24c5ca",
+		"totalEthTransferred": 0.62,
+		"weight": 0.6975,
+		"tokenAmount": 2046728822.346157
+	},
+	{
+		"account": "0x5dd0e13ef074a9870145baed81e9539f6663ea6a",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xfb8eb3e4b1ecc1886fd60cb31066927bc8058b88",
+		"totalEthTransferred": 0.1213881270119485,
+		"weight": 0.15173515876493562,
+		"tokenAmount": 445248348.11105937
+	},
+	{
+		"account": "0x9aa6c4c827be0f5f7f88f6f1428aa775dded4a5a",
+		"totalEthTransferred": 0.06,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x84c8aa7005dce26b554d44bb99085fca7335c21c",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0xbb683ffca5a8d75df492fe9f9c94f88e98b3fced",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0xbf6ac63dcc5736e15487596d7766571388bd1d22",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x34b788db4efff4aded4b7b5d7ffb34052eedb175",
+		"totalEthTransferred": 0.068,
+		"weight": 0.085,
+		"tokenAmount": 249422150.39343852
+	},
+	{
+		"account": "0x774bbd958a249ac1c1bf1406bebd444e355c3d92",
+		"totalEthTransferred": 0.05063811699860101,
+		"weight": 0.06329764624825127,
+		"tokenAmount": 185739235.78919995
+	},
+	{
+		"account": "0x9a9095168bf6fa5142e94f117661e009508da8ae",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x4ccbb4c02fc7221be1c17b44000d596e5623be81",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0x16390375178d156e7af8f07dde8bb1086929d526",
+		"totalEthTransferred": 2,
+		"weight": 2.5,
+		"tokenAmount": 7335945599.807014
+	},
+	{
+		"account": "0xedfe3d2497d867697a6ab2dc37c88634f47a5308",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x98e2c1743ff02a8603201e223626a268f808346d",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0x697f5736ee44454fd1ab614d9fab237bd1fdb25c",
+		"totalEthTransferred": 0.05225993476730495,
+		"weight": 0.06532491845913119,
+		"tokenAmount": 191688019.2512062
+	},
+	{
+		"account": "0x5c25a26b19c607b38798d69832ec52b8a76554fb",
+		"totalEthTransferred": 0.08,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x0e878a7a068651c41e58caf20c7b92041208d803",
+		"totalEthTransferred": 0.6783069481360531,
+		"weight": 0.8478836851700664,
+		"tokenAmount": 2488011435.748602
+	},
+	{
+		"account": "0x752985471d713fa71de3f9caf0471f1102809513",
+		"totalEthTransferred": 0.6039820315991752,
+		"weight": 0.754977539498969,
+		"tokenAmount": 2215389663.5362353
+	},
+	{
+		"account": "0xa4a327a68b6d15cec06dc9cd27d0e466872b0294",
+		"totalEthTransferred": 2,
+		"weight": 2.5,
+		"tokenAmount": 7335945599.807014
+	},
+	{
+		"account": "0xc0f5ce8a54f21383377e6523bbce661f8adff397",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0x598462256ccdb1f11183f9eff192e8601c47f80c",
+		"totalEthTransferred": 0.25,
+		"weight": 0.3125,
+		"tokenAmount": 916993199.9758768
+	},
+	{
+		"account": "0xa0934cf3c4a0c6461133b16209adb4c62fc54fed",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0xd173ed541fcb7dab78789f6888af842eaf066086",
+		"totalEthTransferred": 0.065,
+		"weight": 0.08125,
+		"tokenAmount": 238418231.99372798
+	},
+	{
+		"account": "0x45de66406174a2080aaca8549aeca47bf047890d",
+		"totalEthTransferred": 0.325,
+		"weight": 0.40625,
+		"tokenAmount": 1192091159.9686399
+	},
+	{
+		"account": "0xbe05221d19b6acae3cbc7f368e8546ae92312caf",
+		"totalEthTransferred": 0.155,
+		"weight": 0.19375,
+		"tokenAmount": 568535783.9850436
+	},
+	{
+		"account": "0x35abdfab9d0ac3a9a8271fc544c4b566a9074dc0",
+		"totalEthTransferred": 0.10754488846825501,
+		"weight": 0.13443111058531876,
+		"tokenAmount": 394471725.6702157
+	},
+	{
+		"account": "0x3d8bf5d4a0963e9e9755a4b3c62d5f0d190d8d8d",
+		"totalEthTransferred": 0.06,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x1bbd985bd8cbf8bc67ae032f079c8998362e7c3a",
+		"totalEthTransferred": 0.051,
+		"weight": 0.06375,
+		"tokenAmount": 187066612.79507887
+	},
+	{
+		"account": "0xa028c17fe4c392e1f7f84144af11239dd8989d60",
+		"totalEthTransferred": 0.13,
+		"weight": 0.1625,
+		"tokenAmount": 476836463.98745596
+	},
+	{
+		"account": "0xf15034485c73c40fa7fe79d4a631cb348a095362",
+		"totalEthTransferred": 0.33,
+		"weight": 0.41250000000000003,
+		"tokenAmount": 1210431023.9681575
+	},
+	{
+		"account": "0x6826341f61785a98f7d36dbbf94bc89e67be0973",
+		"totalEthTransferred": 0.2,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0x7f23c78f75394d818fcd4d9cf4fe5ba78c470d44",
+		"totalEthTransferred": 0.12,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x86c60997d5ce6b3bfa015faa3d8dd7216b7ef1d6",
+		"totalEthTransferred": 0.2,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0x2e604e03d0b90e8aa058bb8bb6313e749606832c",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0xb5c9ef6bceaa880d4bb3ac9ba89d3829064b2c73",
+		"totalEthTransferred": 0.4,
+		"weight": 0.5,
+		"tokenAmount": 1467189119.961403
+	},
+	{
+		"account": "0xb2e13b3bc85e9f5466d6ef38e74587554209b36d",
+		"totalEthTransferred": 0.9,
+		"weight": 1.125,
+		"tokenAmount": 3301175519.9131565
+	},
+	{
+		"account": "0x01b8f7ef9c12841ca94ee6652f0d5e9646a1168f",
+		"totalEthTransferred": 0.307,
+		"weight": 0.38375,
+		"tokenAmount": 1126067649.5703769
+	},
+	{
+		"account": "0xa638e5ac162651d3511dac186f36eacdd925e5da",
+		"totalEthTransferred": 0.11630131221545,
+		"weight": 0.1453766402693125,
+		"tokenAmount": 426590049.7993561
+	},
+	{
+		"account": "0xa7965408ef81fb43d9e30e42be11f41c48d44fe5",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1125,
+		"tokenAmount": 330117551.99131566
+	},
+	{
+		"account": "0x8776d507eb7f67358488962861ac9482b49dfbde",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0xeb159113068c2ff0fe41b6ec5a0b175eac514963",
+		"totalEthTransferred": 0.46157,
+		"weight": 0.5769624999999999,
+		"tokenAmount": 1693026205.2514615
+	},
+	{
+		"account": "0x919499bc3a7df8a9918b86158c2d6e2dc05af386",
+		"totalEthTransferred": 0.051,
+		"weight": 0.06375,
+		"tokenAmount": 187066612.79507887
+	},
+	{
+		"account": "0x286d34ec263d262445e120da94c1d72587bd8ff0",
+		"totalEthTransferred": 0.09539,
+		"weight": 0.1192375,
+		"tokenAmount": 349887925.3827956
+	},
+	{
+		"account": "0x7ebd2cb519fe1661f63659dd9a69df331c06701b",
+		"totalEthTransferred": 0.3,
+		"weight": 0.375,
+		"tokenAmount": 1100391839.9710522
+	},
+	{
+		"account": "0x7f96bbfdc504f97f70e15e2a67224e92fd83f90f",
+		"totalEthTransferred": 0.501337,
+		"weight": 0.62667125,
+		"tokenAmount": 1838890479.5852246
+	},
+	{
+		"account": "0x0398e1e805f057709fc2f753105319ddf1eabe2a",
+		"totalEthTransferred": 0.061,
+		"weight": 0.07625,
+		"tokenAmount": 223746340.79411396
+	},
+	{
+		"account": "0x30987d166ab0444a106f6078fa16f47bc6ac9eef",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x2b5921377847f668bc3f7c2001f5c754f2e2cf17",
+		"totalEthTransferred": 0.0615,
+		"weight": 0.076875,
+		"tokenAmount": 225580327.19406572
+	},
+	{
+		"account": "0xa364be8b6add25d0443388a64882930b1df786e6",
+		"totalEthTransferred": 0.2,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0x56f4507c6fdb017cde092c37d3cf9893322245eb",
+		"totalEthTransferred": 0.3,
+		"weight": 0.375,
+		"tokenAmount": 1100391839.9710522
+	},
+	{
+		"account": "0x3ddcc86e1814f0e05d3d58e025de72686b98160f",
+		"totalEthTransferred": 0.2,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0xaecce332f77da322443a184b19ee1bdfba7b7ba5",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x14abcea97550edaa8123bcd9357715f12d48f559",
+		"totalEthTransferred": 0.25,
+		"weight": 0.3125,
+		"tokenAmount": 916993199.9758768
+	},
+	{
+		"account": "0x89855af6f240c4187c2290833b17d0944c65817e",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0xb67a6b2862fb7a9daf360cc2d23eb140b5664731",
+		"totalEthTransferred": 0.75,
+		"weight": 0.9375,
+		"tokenAmount": 2750979599.9276304
+	},
+	{
+		"account": "0x5152bb76c5a0642394290371af6b4682cbaaf62a",
+		"totalEthTransferred": 0.05124223366960999,
+		"weight": 0.06405279208701249,
+		"tokenAmount": 187955119.30642915
+	},
+	{
+		"account": "0x1de7133cb0391249a36ced77886ea6109458232b",
+		"totalEthTransferred": 0.5,
+		"weight": 0.625,
+		"tokenAmount": 1833986399.9517536
+	},
+	{
+		"account": "0x2027c35f62871739a32b6dde492d1436bf59135a",
+		"totalEthTransferred": 0.051,
+		"weight": 0.06375,
+		"tokenAmount": 187066612.79507887
+	},
+	{
+		"account": "0xd874e898e9ad3aa7592f0e5d47c5d3f6be3d1f9d",
+		"totalEthTransferred": 0.050654440015165635,
+		"weight": 0.06331805001895704,
+		"tokenAmount": 185799108.16997138
+	},
+	{
+		"account": "0x8f71d6d584bb312c2a05fdee657ee2e1171b6e4e",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x461838fff6f45c5862c0a453cf5b42d64298941a",
+		"totalEthTransferred": 0.76,
+		"weight": 0.9500000000000001,
+		"tokenAmount": 2787659327.926666
+	},
+	{
+		"account": "0x496236fd5a3244a9d821b54ab6e7c671dccd9d94",
+		"totalEthTransferred": 2,
+		"weight": 2.5,
+		"tokenAmount": 7335945599.807014
+	},
+	{
+		"account": "0xdd3fdaa8ad84f0aab490431cf4e3c5fff0e7e12a",
+		"totalEthTransferred": 0.051,
+		"weight": 0.06375,
+		"tokenAmount": 187066612.79507887
+	},
+	{
+		"account": "0x46fee87a19633c6fa7f407134fda5e92533e415a",
+		"totalEthTransferred": 0.06079398,
+		"weight": 0.075992475,
+		"tokenAmount": 222990665.03787783
+	},
+	{
+		"account": "0x780f3fdfde743b5d0cc010ab639dd4122d8eb66b",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x28b63b3777feac93ec8f212c43e527658e7a9709",
+		"totalEthTransferred": 0.18951033,
+		"weight": 0.211885205,
+		"tokenAmount": 621751334.9135829
+	},
+	{
+		"account": "0x69ae36caeb719e2b429fda14819795595b82a6a5",
+		"totalEthTransferred": 0.17,
+		"weight": 0.21250000000000002,
+		"tokenAmount": 623555375.9835963
+	},
+	{
+		"account": "0xdfcd551f14ae7f2cf51329a21651d654503cdf5e",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x8b93a331ccc9024986beeee5c6542dfac49c182b",
+		"totalEthTransferred": 0.12268282808455301,
+		"weight": 0.15335353510569127,
+		"tokenAmount": 449997276.4293786
+	},
+	{
+		"account": "0x931e0741cd4fc7de1f01238034f3ddb006a424c0",
+		"totalEthTransferred": 0.051863976044944714,
+		"weight": 0.0648299700561809,
+		"tokenAmount": 190235653.4277043
+	},
+	{
+		"account": "0x84707f2f2a12eef5edfb03a44fb24e14c28bf15a",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x6d8c6e5ce512a0446910a0ebd4735a4761f6329e",
+		"totalEthTransferred": 0.5211,
+		"weight": 0.651375,
+		"tokenAmount": 1911380626.0297177
+	},
+	{
+		"account": "0xe114697970810fb30910c458757b2c61199eba86",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x12f509be7857d2033a9acee8f05b78ca6214bc36",
+		"totalEthTransferred": 0.26,
+		"weight": 0.325,
+		"tokenAmount": 953672927.9749119
+	},
+	{
+		"account": "0x1fe89ecc59e46e59697ecf0c4f917badf060230a",
+		"totalEthTransferred": 0.061129925543750685,
+		"weight": 0.07641240692968836,
+		"tokenAmount": 224222904.15460414
+	},
+	{
+		"account": "0xbd93e6778ea7627db58f4e90051e421429177ff8",
+		"totalEthTransferred": 0.09,
+		"weight": 0.11249999999999999,
+		"tokenAmount": 330117551.9913156
+	},
+	{
+		"account": "0xf104d03e02b1d7bcce03c7499a191b91ba41ba33",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x24af410f671927b26f2b9e085221b35c49487645",
+		"totalEthTransferred": 0.11,
+		"weight": 0.1375,
+		"tokenAmount": 403477007.98938584
+	},
+	{
+		"account": "0x6da8f1ead341c8cb8c0cbcdd5eeb67f2613df93e",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x5fd9c4368ee7e8fc79e48fba390c148fd16453ee",
+		"totalEthTransferred": 0.75,
+		"weight": 0.9375,
+		"tokenAmount": 2750979599.9276304
+	},
+	{
+		"account": "0x16cc69739064489f16039859c3027ac542d03b1d",
+		"totalEthTransferred": 0.085,
+		"weight": 0.10625000000000001,
+		"tokenAmount": 311777687.99179816
+	},
+	{
+		"account": "0xb04b0227c9c838394aa90466c0e6c11ab8c86ba8",
+		"totalEthTransferred": 0.06115553381136576,
+		"weight": 0.0764444172642072,
+		"tokenAmount": 224316834.5836689
+	},
+	{
+		"account": "0x1a278bb95c310400a2564b552153f4c4f73ba6d6",
+		"totalEthTransferred": 0.2493,
+		"weight": 0.311625,
+		"tokenAmount": 914425619.0159444
+	},
+	{
+		"account": "0xcc30c50a4e4dd9cba72803cbaa6b799664e58f03",
+		"totalEthTransferred": 0.050471217641064,
+		"weight": 0.06308902205133,
+		"tokenAmount": 185127053.48543283
+	},
+	{
+		"account": "0x3fbd0563fea7586f50c4a42f294e8dbf2c15f3b6",
+		"totalEthTransferred": 1,
+		"weight": 1.25,
+		"tokenAmount": 3667972799.903507
+	},
+	{
+		"account": "0xab6e46f15403e25ffe6dd27e9a45df7c42660051",
+		"totalEthTransferred": 2,
+		"weight": 2.5,
+		"tokenAmount": 7335945599.807014
+	},
+	{
+		"account": "0x9e43a18b4e190c41a0ef89a1d4de906144fe501c",
+		"totalEthTransferred": 0.06,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x0b1bc25c40738d8bf67a11c11f67360cbaa381d4",
+		"totalEthTransferred": 0.0501,
+		"weight": 0.062625,
+		"tokenAmount": 183765437.2751657
+	},
+	{
+		"account": "0x73a33914b84531ec7e7063b910d422352bd39a81",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x70316902346467fc9d360c09e447212272572dea",
+		"totalEthTransferred": 0.08,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xc29886b0b562c45a2b67624e7eef014f0f3d6099",
+		"totalEthTransferred": 0.13780452886928998,
+		"weight": 0.17225566108661247,
+		"tokenAmount": 505463263.5960732
+	},
+	{
+		"account": "0x2394605b4db3217f717b542caf231d64a3167f02",
+		"totalEthTransferred": 0.124,
+		"weight": 0.155,
+		"tokenAmount": 454828627.1880349
+	},
+	{
+		"account": "0x9c48e09c01b5922b36d2e206ee50d97197268d83",
+		"totalEthTransferred": 0.19,
+		"weight": 0.2375,
+		"tokenAmount": 696914831.9816664
+	},
+	{
+		"account": "0x916ba0c56046832374637b9205f3090a437417c8",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x35764fd659509f60c9531f27fdb5305f85a1398b",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x34217dad60fc18c991cf40032197eb28adbca7fb",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x61590573da58dfa70cce9cec31dc8fd6166dcd34",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xa76b0fd501bd3527a3d44d0f8e353c242b3d5f0e",
+		"totalEthTransferred": 0.055,
+		"weight": 0.06875,
+		"tokenAmount": 201738503.99469292
+	},
+	{
+		"account": "0xa67a0f86c4cdb1e80a9e4592d414798ef8973d20",
+		"totalEthTransferred": 0.6128,
+		"weight": 0.766,
+		"tokenAmount": 2247733731.7808695
+	},
+	{
+		"account": "0x8c19a21c2b589d93e775960b356725495c4d5196",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0xc7248df8a0397668424eaa5e1fa7efaa4b4fbb42",
+		"totalEthTransferred": 0.0521,
+		"weight": 0.065125,
+		"tokenAmount": 191101382.87497273
+	},
+	{
+		"account": "0xf096c755c8143ef58bdc0148e97dc05f728dd6bd",
+		"totalEthTransferred": 0.07630142,
+		"weight": 0.095376775,
+		"tokenAmount": 279871533.15401345
+	},
+	{
+		"account": "0xea40f32d8775a9368f9d38a1e0aee8fedaf4fae1",
+		"totalEthTransferred": 0.4593667170438833,
+		"weight": 0.5742083963048541,
+		"tokenAmount": 1684944623.2979348
+	},
+	{
+		"account": "0xba9a358ae27a9a80c9a914142861701be0e3bf70",
+		"totalEthTransferred": 0.107,
+		"weight": 0.11975,
+		"tokenAmount": 351391794.230756
+	},
+	{
+		"account": "0xf96fce7c1cac8a3b953558b37f3d7f75a91814e1",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x55c618686674be06dadb5a12464923ee14da8bea",
+		"totalEthTransferred": 0.5,
+		"weight": 0.625,
+		"tokenAmount": 1833986399.9517536
+	},
+	{
+		"account": "0xacf6ace98bf580f6f117894e8618f118f44ddd9f",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x432db58316d883f8c3eb0e0c26ab047cba0e32fa",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x1dcb2c57bf8f1edd907cf3bca8d95e6c92e1df34",
+		"totalEthTransferred": 0.25,
+		"weight": 0.3125,
+		"tokenAmount": 916993199.9758768
+	},
+	{
+		"account": "0x96c832d8c0d0c35df601061f0559c8ee33443255",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x2919dd072d7c57d7446afbdb9840065176f20166",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xdd2313a720d3186cdfc8cd4e2906f6fbd57cfb48",
+		"totalEthTransferred": 0.075,
+		"weight": 0.09375,
+		"tokenAmount": 275097959.99276304
+	},
+	{
+		"account": "0x185f7c39d5e5d139c2c5d12a89e0bbce4a4ea78a",
+		"totalEthTransferred": 0.11,
+		"weight": 0.1375,
+		"tokenAmount": 403477007.98938584
+	},
+	{
+		"account": "0x2b37d602bd22c2b3a61be99649c92b6de11a1141",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x0f4ebf6c10cab2c581536312da580eb239f32207",
+		"totalEthTransferred": 0.06101051742962139,
+		"weight": 0.07626314678702674,
+		"tokenAmount": 223784918.4398901
+	},
+	{
+		"account": "0x1bd4ed677914f24feecc3af0d320267bafec7195",
+		"totalEthTransferred": 0.108,
+		"weight": 0.135,
+		"tokenAmount": 396141062.3895788
+	},
+	{
+		"account": "0xfabf827d4340f21ab6f7469698d51deafec35607",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x8c0964d6b0639e1636e2ce73b27c6b41379d1cb9",
+		"totalEthTransferred": 0.22848202649069152,
+		"weight": 0.2856025331133644,
+		"tokenAmount": 838065858.4346893
+	},
+	{
+		"account": "0x452b719e47d5b42fbdb8846a946b43169d1437c1",
+		"totalEthTransferred": 0.056,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0xa6f4f328064b4fb5840206ebe73052e477a3c19d",
+		"totalEthTransferred": 0.062,
+		"weight": 0.0775,
+		"tokenAmount": 227414313.59401745
+	},
+	{
+		"account": "0xd116ec51ced0a7a49bea6555f90872752448d8bc",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xe8f4fdb8d3f1abbdb9774995fc706b9a79def221",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x0cb9055ce50dbee92e73124d84dad861a04b3c50",
+		"totalEthTransferred": 0.10587935843644584,
+		"weight": 0.10587935843644584,
+		"tokenAmount": 310690085.45289385
+	},
+	{
+		"account": "0xf604386930ca87d0ff1fe42d83cf19ec28e11ac3",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0x795be40ceab0f9033223fd071f16603734e24e00",
+		"totalEthTransferred": 0.05752248256247864,
+		"weight": 0.05752248256247864,
+		"tokenAmount": 168792721.13767636
+	},
+	{
+		"account": "0xd92d46391e3c2c8cfbc97d508c53b4b1dbb64c11",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x3f9c5503b4ee28b7a8da2b1e2b745735e7cfd1fd",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe5e0c0133d593970d7a58442c273df53a642b90d",
+		"totalEthTransferred": 0.151,
+		"weight": 0.151,
+		"tokenAmount": 443091114.2283437
+	},
+	{
+		"account": "0x00e5b5d7eb09b414589907a7a662cea6e6ca9117",
+		"totalEthTransferred": 0.91,
+		"weight": 0.91,
+		"tokenAmount": 2670284198.3297534
+	},
+	{
+		"account": "0xadbc6e8186240dfba287458510e3c65b8c348c5e",
+		"totalEthTransferred": 0.1289791246326637,
+		"weight": 0.1289791246326637,
+		"tokenAmount": 378473536.72637993
+	},
+	{
+		"account": "0xaefdb986cd2f256b55b9a5b0e2f8f74f681c0794",
+		"totalEthTransferred": 0.052,
+		"weight": 0.052,
+		"tokenAmount": 152587668.4759859
+	},
+	{
+		"account": "0x13945209814a7fbc8b6a6403cc15a506a8999f30",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x800a907eabf9759be01a18e7123d32b73f41c529",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0x29648660e496b130b8628ea8928f9f42274d7aa7",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x0a5320e4aaa4c2998254e0093d81c41254f73277",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x155e8ad7e01efb00586413d713e75ca70ec0bd67",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x735a509921631457862c2ad1c77b3fea0acdbf68",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x17be38465673fe6207a0adf21e844d4debf0edaf",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa8040bd00dda57d4d565f2bdfa43c8ca34dec6ae",
+		"totalEthTransferred": 0.066343,
+		"weight": 0.066343,
+		"tokenAmount": 194675455.5711987
+	},
+	{
+		"account": "0xaa84dfa09c39b817a7e1459272f433e7245ecce0",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x36e4d7d29816d75659d15c75b52b6393cea588e4",
+		"totalEthTransferred": 0.076,
+		"weight": 0.076,
+		"tokenAmount": 223012746.23413324
+	},
+	{
+		"account": "0xf6a7410c20a5be484e12da2bf45e5da91ea36bf6",
+		"totalEthTransferred": 0.15000000000000002,
+		"weight": 0.15000000000000002,
+		"tokenAmount": 440156735.98842096
+	},
+	{
+		"account": "0x09eaf814220e435fcc51f7d8ccbfdfec2b2ea67b",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0x078bf01719961714e23f99f3f9c10009f878cfa5",
+		"totalEthTransferred": 0.125,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0x674aef3d3744023236105c4e4ff61ae7518e98a0",
+		"totalEthTransferred": 0.489,
+		"weight": 0.489,
+		"tokenAmount": 1434910959.322252
+	},
+	{
+		"account": "0x4319f8d70d370392bba94440e9ac6312c9c79f6c",
+		"totalEthTransferred": 0.12,
+		"weight": 0.12,
+		"tokenAmount": 352125388.79073673
+	},
+	{
+		"account": "0x209b3990aed637ad8788d183f24460dc575aa80b",
+		"totalEthTransferred": 0.18300508435844115,
+		"weight": 0.18300508435844115,
+		"tokenAmount": 537006137.3366472
+	},
+	{
+		"account": "0x0ab0fae4ad58b4e5d8651767da5b20c56f7e36e5",
+		"totalEthTransferred": 0.295,
+		"weight": 0.295,
+		"tokenAmount": 865641580.7772278
+	},
+	{
+		"account": "0xfbad6fddb3bf39726cb8b9456534828a1a4fe670",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0xee57b0d4376bd476f1cfc64076b84d86af4f26c2",
+		"totalEthTransferred": 0.05184910689913366,
+		"weight": 0.05184910689913366,
+		"tokenAmount": 152144891.04424924
+	},
+	{
+		"account": "0x5623bb89c0b57589c3fe37f15c96616826ec050c",
+		"totalEthTransferred": 0.050913043223090544,
+		"weight": 0.050913043223090544,
+		"tokenAmount": 149398126.1620862
+	},
+	{
+		"account": "0xf43e1e32c80ff906dda96703bdead21fbc97667a",
+		"totalEthTransferred": 0.10224188151428086,
+		"weight": 0.10224188151428086,
+		"tokenAmount": 300016352.3242715
+	},
+	{
+		"account": "0xe5f4be4143ee5b5898ca3ed8ef645d9b3468d860",
+		"totalEthTransferred": 0.149,
+		"weight": 0.149,
+		"tokenAmount": 437222357.7484981
+	},
+	{
+		"account": "0xc01ee8d207f4afe0228ae1738a7830345ec564df",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xf08e765a0f026b4d6870bfd45475399789d47de4",
+		"totalEthTransferred": 0.3,
+		"weight": 0.3,
+		"tokenAmount": 880313471.9768418
+	},
+	{
+		"account": "0xf9d2aeb1170a50090d553db6a46aad3a8747c605",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x4b426d550d237466d0702e9ba56fcf2c6b44de07",
+		"totalEthTransferred": 0.053,
+		"weight": 0.053,
+		"tokenAmount": 155522046.7159087
+	},
+	{
+		"account": "0x3cf44932f1aa5cf9f4b6e52e7e320e7b4058ca6a",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe2d006481e657e73166cc34b584cde96439f76c9",
+		"totalEthTransferred": 0.1011848964070246,
+		"weight": 0.1011848964070246,
+		"tokenAmount": 296914758.22561634
+	},
+	{
+		"account": "0x9febe617fbab30217eb3455468e0785d1008908b",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xe6bcbd55eeb2cca768aaeee1262ae8ad485bbaa5",
+		"totalEthTransferred": 0.28,
+		"weight": 0.28,
+		"tokenAmount": 821625907.1783856
+	},
+	{
+		"account": "0x4d6181b9830237842738cea01eb1b0421b3f28a3",
+		"totalEthTransferred": 0.298,
+		"weight": 0.298,
+		"tokenAmount": 874444715.4969962
+	},
+	{
+		"account": "0xb259a07f5db1cc3b82104246f6176f072130a19e",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0xb28193f2c1ddad4cfe0dcbd43f0c566938a94241",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x8d698af0dc97f71e7e3220782684797c581420d3",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xa8abfcbfe121051050cf9ca64066de03992fe97a",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xc6eedf5ca166fa20809a91854283ef3a19e3e533",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x49b5a1e383ebfbd7cbd0c0d65ee8d82fdd9b5a41",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x1e501e9162ad81520c032ac4556767efd9330493",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0x8bc93a571125cd9e7ccb3f9d87239a36ade64945",
+		"totalEthTransferred": 0.061,
+		"weight": 0.061,
+		"tokenAmount": 178997072.63529116
+	},
+	{
+		"account": "0xb672f85a1d14d199d07f580248261cb05d52ef84",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xde3d4344f3d4aceed5c97f26c49a547c34bcf7dd",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x86be595abf43c512cc4edced816051a7f7721994",
+		"totalEthTransferred": 0.29,
+		"weight": 0.29,
+		"tokenAmount": 850969689.5776137
+	},
+	{
+		"account": "0xfb5b9d967339f27cce32fb202218484c6bad0adb",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xfb66bec58df02534ace07c8c80b6816aeae2ff36",
+		"totalEthTransferred": 0.099,
+		"weight": 0.099,
+		"tokenAmount": 290503445.7523578
+	},
+	{
+		"account": "0x30227f83d83af8bc1e659f2e5fe96325731dfe9a",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xb04118bb918dce1c0e001c713a28a12e88e06031",
+		"totalEthTransferred": 0.0505,
+		"weight": 0.0505,
+		"tokenAmount": 148186101.1161017
+	},
+	{
+		"account": "0x7894de2b11e45a3276eb34ca14b73e14e60f5fc3",
+		"totalEthTransferred": 0.11699999999999999,
+		"weight": 0.11699999999999999,
+		"tokenAmount": 343322254.0709683
+	},
+	{
+		"account": "0x6bc5961d60c714bcdf5424aa58f3abdb5b23d287",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xaba6528c72dd675f2cd42d97458f380a386408b8",
+		"totalEthTransferred": 0.065,
+		"weight": 0.065,
+		"tokenAmount": 190734585.5949824
+	},
+	{
+		"account": "0xf0315d26a7172221bf90ece05e9cde3c719f39a2",
+		"totalEthTransferred": 0.092,
+		"weight": 0.092,
+		"tokenAmount": 269962798.07289815
+	},
+	{
+		"account": "0xe48695ac8317495a3095474690a08efb3f48c376",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x59d68b14daad87c8b0b63153469a90733ba63f6a",
+		"totalEthTransferred": 0.098,
+		"weight": 0.098,
+		"tokenAmount": 287569067.51243496
+	},
+	{
+		"account": "0x26f7e3b107d843e3c1c18a18085ea7b935db5949",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0xa661228326fa228aa7552f09a957d30e33603a1f",
+		"totalEthTransferred": 0.135,
+		"weight": 0.135,
+		"tokenAmount": 396141062.3895788
+	},
+	{
+		"account": "0xa10ae204afdac9b17cc5c7f9f55f266a8af291a6",
+		"totalEthTransferred": 0.056,
+		"weight": 0.056,
+		"tokenAmount": 164325181.43567714
+	},
+	{
+		"account": "0x66697dabffe51a73e506f463b27e388512ed6ecd",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0x0488af2a4990fbba691706e11953b4f391374e61",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x3873aa8b03c5fbcac1325705e611ac98fe402e78",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xfee5581b1871d3745d1256e0f21abf1620a80f1b",
+		"totalEthTransferred": 0.0525,
+		"weight": 0.0525,
+		"tokenAmount": 154054857.59594733
+	},
+	{
+		"account": "0xd58a9fa454dbc9401e17855a2634837e4fe0dae9",
+		"totalEthTransferred": 0.0505,
+		"weight": 0.0505,
+		"tokenAmount": 148186101.1161017
+	},
+	{
+		"account": "0xaafbe4bb214f6aa9fec9cb255c0614cc4a5cdbc6",
+		"totalEthTransferred": 0.055009450929276,
+		"weight": 0.055009450929276,
+		"tokenAmount": 161418535.79696888
+	},
+	{
+		"account": "0x2769e17a63e557e90d8c1e465605693027946f39",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe8d7e6794df9bc029fc91c45b18db5eee7bd4a81",
+		"totalEthTransferred": 0.44017496,
+		"weight": 0.44017496,
+		"tokenAmount": 1291639824.3828914
+	},
+	{
+		"account": "0xf7f742dd403be347cb54e4e04f8f65c45786cf12",
+		"totalEthTransferred": 0.093,
+		"weight": 0.093,
+		"tokenAmount": 272897176.312821
+	},
+	{
+		"account": "0x1fac44892babaf7635990217280ecbc61f4d7fb8",
+		"totalEthTransferred": 0.5,
+		"weight": 0.5,
+		"tokenAmount": 1467189119.961403
+	},
+	{
+		"account": "0x60b19991ead62ae6d616c1843962760b68f7ecf5",
+		"totalEthTransferred": 0.08,
+		"weight": 0.08,
+		"tokenAmount": 234750259.19382447
+	},
+	{
+		"account": "0x931fe0ebee7d90c5c76c7f6a1fe01514922407dc",
+		"totalEthTransferred": 0.1282,
+		"weight": 0.1282,
+		"tokenAmount": 376187290.35810375
+	},
+	{
+		"account": "0x6b5d8e7e397ea7016fba2de46064c203b3dc7655",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x89029ac5d36b7aae2a3c52eb57f8ff1c729ea6b3",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x15429f1252f28a5a0b81da3b726db353573a7c33",
+		"totalEthTransferred": 0.18299768507928374,
+		"weight": 0.18299768507928374,
+		"tokenAmount": 536984425.0528966
+	},
+	{
+		"account": "0xfaf0f23048e244339c2be423e501329a80585647",
+		"totalEthTransferred": 0.05069871,
+		"weight": 0.05069871,
+		"tokenAmount": 148769191.41615677
+	},
+	{
+		"account": "0xa949e5138b58ac9c5e2af248f56ec1b8866e489e",
+		"totalEthTransferred": 0.05273371,
+		"weight": 0.05273371,
+		"tokenAmount": 154740651.13439968
+	},
+	{
+		"account": "0x456db6633877a8aeea2ff67adcc41994a8efff09",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x26aa68ba9c59defb44e800f7f754eb88c872c3b7",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x83eed79b4d23245dc952ac64001f385298967c2f",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x7f0db8a41e0a444c5167ee8ed030902845aa5c6a",
+		"totalEthTransferred": 0.17,
+		"weight": 0.17,
+		"tokenAmount": 498844300.78687704
+	},
+	{
+		"account": "0x3536d4d281fcb76575e914aae3ddb68630f0e198",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xc1d9b852d261c84f22ac1ff67ebd853b6767df2c",
+		"totalEthTransferred": 0.61,
+		"weight": 0.61,
+		"tokenAmount": 1789970726.3529117
+	},
+	{
+		"account": "0x71b4175ed2c50f99603c73e80ff0e6d6f6da9f39",
+		"totalEthTransferred": 0.0501,
+		"weight": 0.0501,
+		"tokenAmount": 147012349.82013258
+	},
+	{
+		"account": "0x7d22ae575f90db58f1cc41d324631a8383c81b05",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x86e39d06c9f61242fa4d2c1925d606ce07cbc9b4",
+		"totalEthTransferred": 0.065,
+		"weight": 0.065,
+		"tokenAmount": 190734585.5949824
+	},
+	{
+		"account": "0xef73c00fe8a8b4f9688120ded40bf4b024a23839",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x5d10327df24331482415a84f3715bd1856c98d3a",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xbafdedc8918557cf227efcca6682cd0e26fbba28",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xe496916db2235fb3e1b0feaf4e934855e0baf022",
+		"totalEthTransferred": 0.7,
+		"weight": 0.7,
+		"tokenAmount": 2054064767.945964
+	},
+	{
+		"account": "0x04ee7a25af27ae6c4ac53d3e46da5537cc1cd1a9",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0xba451565069c5d32541e57ebca5059c317c1f3e6",
+		"totalEthTransferred": 1.2,
+		"weight": 1.2,
+		"tokenAmount": 3521253887.907367
+	},
+	{
+		"account": "0x893b6aef5d7f83de114cab9f5576400afe23c1bb",
+		"totalEthTransferred": 0.054,
+		"weight": 0.054,
+		"tokenAmount": 158456424.95583153
+	},
+	{
+		"account": "0x4e2f1b3686bb7ace96f1ffe7bc36d8e17aebcd14",
+		"totalEthTransferred": 0.174,
+		"weight": 0.174,
+		"tokenAmount": 510581813.7465682
+	},
+	{
+		"account": "0x191497fd8ab39722f31516bddd12fb5106fcd74a",
+		"totalEthTransferred": 0.05187338123707939,
+		"weight": 0.05187338123707939,
+		"tokenAmount": 152216121.1333057
+	},
+	{
+		"account": "0x910b5f14cfbc8a6ed1ab909e074125af4e208f1d",
+		"totalEthTransferred": 0.5,
+		"weight": 0.5,
+		"tokenAmount": 1467189119.961403
+	},
+	{
+		"account": "0x188bf6eafb47605bc31bcf545aba257e4ffc61ea",
+		"totalEthTransferred": 0.075,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x9f29097fd491fb9aefc02a6f490f5a7e89b6c5d2",
+		"totalEthTransferred": 0.375,
+		"weight": 0.375,
+		"tokenAmount": 1100391839.9710522
+	},
+	{
+		"account": "0x0fa45ebf29263f1748f1a0a167a7a1032f2209b9",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x356ab42ae299dba85fb971953c05ed90301eb2ab",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x4d2fb31dce96c89845a36908bf5b7d571481251b",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x2c35c9cb8b83d084aa2a6549891bb468cce8b482",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x6075ff2f2f54577dca5ad7da2c81c76d72435026",
+		"totalEthTransferred": 0.0504,
+		"weight": 0.0504,
+		"tokenAmount": 147892663.29210943
+	},
+	{
+		"account": "0x67f85235de69e9ac8f78195d6b1ddd506e566d07",
+		"totalEthTransferred": 0.075,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0x3aa60b1b06fd3ef4ae8c6079a2b57eb96cdc86cc",
+		"totalEthTransferred": 0.0518,
+		"weight": 0.0518,
+		"tokenAmount": 152000792.82800135
+	},
+	{
+		"account": "0xc71fcd7b8db747b2db06d17955d89a749e5f81f6",
+		"totalEthTransferred": 0.5,
+		"weight": 0.5,
+		"tokenAmount": 1467189119.961403
+	},
+	{
+		"account": "0x59db4db686f761f5e056c22802f40084493cb5d3",
+		"totalEthTransferred": 0.82780739,
+		"weight": 0.82780739,
+		"tokenAmount": 2429099992.0632915
+	},
+	{
+		"account": "0x8df7b3f4cdcb211367c47cc691ff7402e01913bc",
+		"totalEthTransferred": 0.15068796590835,
+		"weight": 0.15068796590835,
+		"tokenAmount": 442175488.17969185
+	},
+	{
+		"account": "0xb5b76c3f3f7efecc70b6f95d0e42e3efe1531d0c",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0x67eca156d541829381909a9e59dc02e6e5d8bd78",
+		"totalEthTransferred": 0.6060000000000001,
+		"weight": 0.6060000000000001,
+		"tokenAmount": 1778233213.3932207
+	},
+	{
+		"account": "0x2205499c3b6ba04614c1d8014fc26aad6844533c",
+		"totalEthTransferred": 0.298,
+		"weight": 0.298,
+		"tokenAmount": 874444715.4969962
+	},
+	{
+		"account": "0x04cb22bb3cd5544ad70fa9e7c54ba18b537d6300",
+		"totalEthTransferred": 0.059,
+		"weight": 0.059,
+		"tokenAmount": 173128316.15544555
+	},
+	{
+		"account": "0x97fa58e74241fe3d259bbe1a64f4f901b3c812a1",
+		"totalEthTransferred": 0.1507818036519353,
+		"weight": 0.1507818036519353,
+		"tokenAmount": 442450843.61255205
+	},
+	{
+		"account": "0xe603eb70c807efe13103dcc0bbda21365f12d5f5",
+		"totalEthTransferred": 0.0505,
+		"weight": 0.0505,
+		"tokenAmount": 148186101.1161017
+	},
+	{
+		"account": "0x9d447aff5997672bb8ad8b9acaea51c3342dd571",
+		"totalEthTransferred": 0.575,
+		"weight": 0.575,
+		"tokenAmount": 1687267487.9556134
+	},
+	{
+		"account": "0xc015ecf350bf37cf67da78ddb8fe1f51b0b548d9",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0x736766b9a41aceea10c89aa93468d93b1aae1907",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0x357cb37fa10a4bb3bcdd0bdbd24593ecfe730c21",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x4bbe0fd0bdec55e074c5e6ea9f4f627aff31e93a",
+		"totalEthTransferred": 0.091,
+		"weight": 0.091,
+		"tokenAmount": 267028419.83297533
+	},
+	{
+		"account": "0x50fb20cd5dd9d70a60a17ee0a3a0efb75665b030",
+		"totalEthTransferred": 0.3,
+		"weight": 0.3,
+		"tokenAmount": 880313471.9768418
+	},
+	{
+		"account": "0xbc15bbf9e62b7a47fc030645d602b05e4e23b981",
+		"totalEthTransferred": 0.385,
+		"weight": 0.385,
+		"tokenAmount": 1129735622.3702803
+	},
+	{
+		"account": "0x81637ff80ed9796054b28cb418fdae25de124895",
+		"totalEthTransferred": 0.11788384476370647,
+		"weight": 0.11788384476370647,
+		"tokenAmount": 345915788.9130583
+	},
+	{
+		"account": "0x55f2522979111bc818c8b9a8f882a8fed56cc309",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x4f0cc4dd3e43195f9859cce3c153c846d3abce4f",
+		"totalEthTransferred": 0.27201,
+		"weight": 0.27201,
+		"tokenAmount": 798180225.0414023
+	},
+	{
+		"account": "0x70f9a15ba2da59a50169fe5a74f43f72234b627a",
+		"totalEthTransferred": 0.35,
+		"weight": 0.35,
+		"tokenAmount": 1027032383.972982
+	},
+	{
+		"account": "0x9ce6533b36d8dac393580519efa4bd8eaa5703ed",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x7d3978d5668615b264b0010f0088ebb460da62c6",
+		"totalEthTransferred": 0.1505661286437003,
+		"weight": 0.1505661286437003,
+		"tokenAmount": 441817971.5614921
+	},
+	{
+		"account": "0xcd255b9b219cb04fde5cf49a264ed69ed002f2c5",
+		"totalEthTransferred": 0.09037410360185989,
+		"weight": 0.09037410360185989,
+		"tokenAmount": 265191803.06182694
+	},
+	{
+		"account": "0xe073a3f4e2f8f0933c5cd1c4bc45d77cd2a67105",
+		"totalEthTransferred": 0.065,
+		"weight": 0.065,
+		"tokenAmount": 190734585.5949824
+	},
+	{
+		"account": "0x9fd7974c86b3d356cc99c3579c6f4f89b4007a4d",
+		"totalEthTransferred": 0.07554410642653714,
+		"weight": 0.07554410642653714,
+		"tokenAmount": 221674982.05244318
+	},
+	{
+		"account": "0xbcb23caedaaae24aefe4549e7058e25f3f714d9f",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x958e3efdf581181335f8132213ef71da7adda878",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x9ea2b8141f33112bf04e9be559e0234391f5edca",
+		"totalEthTransferred": 0.053,
+		"weight": 0.053,
+		"tokenAmount": 155522046.7159087
+	},
+	{
+		"account": "0x00fa3d2c95dd51978a21b17cded4fb3087666fcf",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x00f79cb9a6f690ea65407ca1bf123af308bf8328",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x3ca441d282ebd08ac5eed970f2322447ab354de1",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0x2fc75acfcb7d190682d7806fbf0f1569f7fe6226",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xe3ee4421c55fd5109a31d27759262eefc65d7fef",
+		"totalEthTransferred": 0.36196638237227996,
+		"weight": 0.36196638237227996,
+		"tokenAmount": 1062146276.0167962
+	},
+	{
+		"account": "0x5a28b34665943cae3060a93a93b990497c6c5380",
+		"totalEthTransferred": 0.063,
+		"weight": 0.063,
+		"tokenAmount": 184865829.11513677
+	},
+	{
+		"account": "0x39af60019e6596f1313804a7366dff8503748f51",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xeaa9ed27e5521a2721cbc6c5fe7b790cefef520b",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x39614d0afd561935c80a6b67369ee608d9dd564b",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xfd47e00b023e9928f3ff0b1ed97776e135c4cad4",
+		"totalEthTransferred": 0.057,
+		"weight": 0.057,
+		"tokenAmount": 167259559.67559993
+	},
+	{
+		"account": "0x5ee94c5a1851765dd5c3bf97223ff4d2140ee566",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x0422000dc26386a2e678a34d9532f9b1bd343524",
+		"totalEthTransferred": 0.0548,
+		"weight": 0.0548,
+		"tokenAmount": 160803927.54776976
+	},
+	{
+		"account": "0xc5bc23aa25dd60a142f036937a21e584b24b7fe9",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x89212212326727b3a836c54353f92f21f9a71614",
+		"totalEthTransferred": 0.19,
+		"weight": 0.19,
+		"tokenAmount": 557531865.5853331
+	},
+	{
+		"account": "0x5fd41dc7f1413e80bebb33d6af2157669e79e917",
+		"totalEthTransferred": 0.085,
+		"weight": 0.085,
+		"tokenAmount": 249422150.39343852
+	},
+	{
+		"account": "0x09ccf855f78ead96f1868ffdd428706e10b97536",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa12869f8b4daca857e7acdafbf374f77365313d3",
+		"totalEthTransferred": 0.102,
+		"weight": 0.102,
+		"tokenAmount": 299306580.4721262
+	},
+	{
+		"account": "0x08b1ca146507e94145ce8f02bd998a04833bd9cb",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xc3756a826ca467cb14e4453d4d2cacbf5c993f64",
+		"totalEthTransferred": 1.801154478477154,
+		"weight": 1.801154478477154,
+		"tokenAmount": 5285268508.382871
+	},
+	{
+		"account": "0xa4738d7a67aeaf1ae03b322c88971153e5c5093d",
+		"totalEthTransferred": 0.21,
+		"weight": 0.21,
+		"tokenAmount": 616219430.3837893
+	},
+	{
+		"account": "0x4969f81214b3bc47f7f0062752cfe2f75e8595f8",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x989fdb9c0db8b07763939f20e8399b7e3633de06",
+		"totalEthTransferred": 0.11970027052261138,
+		"weight": 0.11970027052261138,
+		"tokenAmount": 351245869.13442415
+	},
+	{
+		"account": "0x61f1a34f1f0c37cab9b45b2ba51f56f23e176070",
+		"totalEthTransferred": 0.07059,
+		"weight": 0.07059,
+		"tokenAmount": 207137759.95615086
+	},
+	{
+		"account": "0x0be56342fb71ac706e87134e039c7e61b5278079",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xd7e9af0908c1425e0afab548794de27c068f9104",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x1696d1d70e395c5bf43c106d3f77737365a742cf",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe5adaa810fe940611b9128bdbade9c496e597381",
+		"totalEthTransferred": 0.25,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0x19a23d463b4be0945c05ba4e5aa869adcaa55b08",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa6edff568a7affb728ed152fe3cff4116f0b4f5d",
+		"totalEthTransferred": 0.249,
+		"weight": 0.249,
+		"tokenAmount": 730660181.7407787
+	},
+	{
+		"account": "0x070b399bab0f4e2068a3ed3f269bd66e005c51ea",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x889bbcf0f378d4aa31331f8539ae7d2857bb212b",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x539d661d12de62ad7cd14cc71c1b2a3c625719f7",
+		"totalEthTransferred": 0.06123969,
+		"weight": 0.06123969,
+		"tokenAmount": 179700413.75561827
+	},
+	{
+		"account": "0x8a8f733f94413fcc9ff79e2329d4ed711f4499e1",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0xc348cdad55c576efb3c98a5e47ccc3ed94cf4805",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xf10ba56ee94ac0cedb066aa7e1d69b41c5fd6d27",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0xba40010b38a51589ac3426b5ed761e8cbe44c25d",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xd09e2592de4f039fa51786a4d6a6d8d85b37684c",
+		"totalEthTransferred": 0.0785,
+		"weight": 0.0785,
+		"tokenAmount": 230348691.83394027
+	},
+	{
+		"account": "0x7c131cbfbcb9c920e9a4b27f1df13ab8473be011",
+		"totalEthTransferred": 0.7462202832682889,
+		"weight": 0.7462202832682889,
+		"tokenAmount": 2189692561.4114995
+	},
+	{
+		"account": "0xb1dd70e9375c880f196f218861b3365ef829752b",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0x3d139ae6e4a2287e9acb8db276fb4d6f8123e55f",
+		"totalEthTransferred": 0.09,
+		"weight": 0.09,
+		"tokenAmount": 264094041.59305254
+	},
+	{
+		"account": "0xfdf3ca08ea1c9bfc051f997be5a432419517173d",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x05322d2176b7400ec9910cc50a6e40b7e43c8167",
+		"totalEthTransferred": 0.36107709296832446,
+		"weight": 0.36107709296832446,
+		"tokenAmount": 1059536764.5408353
+	},
+	{
+		"account": "0x7fcf6e97e9ca370a49c122270a9e285f7add2b53",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x38ae363dd88b02f26cd810f61862d2b2b0cf8963",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x7691bc056eb19ca2c7c20643da1f764272956f93",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x5f531efee55dafe83025a3bea9da1c4babf33901",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x39b2c6204dd4b21bf0cc57670abf97efc801b0e6",
+		"totalEthTransferred": 0.053,
+		"weight": 0.053,
+		"tokenAmount": 155522046.7159087
+	},
+	{
+		"account": "0xb8cc193ab42c88f9340b8ff787c55aabbb4453c7",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xa6396846cd0f2cc4fbb4fba5ebfc9d46ade82f48",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0x4e6903a8636a902a31e97121664d4ba55d66490e",
+		"totalEthTransferred": 0.605,
+		"weight": 0.605,
+		"tokenAmount": 1775298835.1532977
+	},
+	{
+		"account": "0x3f89a37568cf96a408437c3a6adde305abc5b35d",
+		"totalEthTransferred": 1.97,
+		"weight": 1.97,
+		"tokenAmount": 5780725132.647927
+	},
+	{
+		"account": "0x19dc3a6e262e90ae18a5b8087aba4812ecd39c99",
+		"totalEthTransferred": 1.62,
+		"weight": 1.62,
+		"tokenAmount": 4753692748.674946
+	},
+	{
+		"account": "0x69aca920ccdae6c634852a60e03b31a2abda1658",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x26d36fbcde56f409869530662a3e0ef273ab8e58",
+		"totalEthTransferred": 0.058,
+		"weight": 0.058,
+		"tokenAmount": 170193937.91552275
+	},
+	{
+		"account": "0xe0fea3820eec2cb968368f1e6adc950a0d471e63",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0x6bf1a6cf154ee661423eac04c8d377b0187e21ae",
+		"totalEthTransferred": 0.3025,
+		"weight": 0.3025,
+		"tokenAmount": 887649417.5766488
+	},
+	{
+		"account": "0x51873607e2041cd6e6c6a11a9267e273014b7f51",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0xef2768bee40cf8512475ce992f8ecf79ff058852",
+		"totalEthTransferred": 0.0515,
+		"weight": 0.0515,
+		"tokenAmount": 151120479.3560245
+	},
+	{
+		"account": "0xc4a9dd9ba9676038fd9138a431a78ed06b04d782",
+		"totalEthTransferred": 0.29000000000000004,
+		"weight": 0.29000000000000004,
+		"tokenAmount": 850969689.577614
+	},
+	{
+		"account": "0xd95c02f583086e93e06475e298ff8368ac166b92",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0x16db6fa849dab41dca3a314030ffdb5932130916",
+		"totalEthTransferred": 0.0505,
+		"weight": 0.0505,
+		"tokenAmount": 148186101.1161017
+	},
+	{
+		"account": "0x10cc45ad1f9b68bbe4430fbbafdb48b675e9aa8c",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x0dca31e9845235a95912c3d23313034ae6ad8954",
+		"totalEthTransferred": 0.29,
+		"weight": 0.29,
+		"tokenAmount": 850969689.5776137
+	},
+	{
+		"account": "0x47145868088145e9e2f395935620562cd7918056",
+		"totalEthTransferred": 0.3023,
+		"weight": 0.3023,
+		"tokenAmount": 887062541.9286642
+	},
+	{
+		"account": "0x8f59e630069c32913921ca3d93090e8eca95b4e0",
+		"totalEthTransferred": 0.052,
+		"weight": 0.052,
+		"tokenAmount": 152587668.4759859
+	},
+	{
+		"account": "0x091ddd2ab23d93149dcf9b45030e0cdff7a41fc9",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xda0d39bf633ecc97e24f42251a644a69c1e9ecc4",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x6254326e2eb095e6371f8fc605b07c7fdbe704ee",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xf635e591e239b2b7880b82c7526ef5f0fb4108ff",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xf516a9ad76a15e2ef32e4f0af2f056909a809fdb",
+		"totalEthTransferred": 0.05179244,
+		"weight": 0.05179244,
+		"tokenAmount": 151978608.92850754
+	},
+	{
+		"account": "0x0d38b002abeea52456b68e47762bb0f715047f69",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa8e3e9527b486ddb717379593053c1c48e4876a0",
+		"totalEthTransferred": 0.08,
+		"weight": 0.08,
+		"tokenAmount": 234750259.19382447
+	},
+	{
+		"account": "0x2bde6300390f21361117033712052c6d6f094db7",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x4b67a48f4b1d67729400dd61dd2da8733a8762eb",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x57e8eb411085c7d70ed72de4df430c34fe74345f",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xd93f3376e88e32663fe139fecbb56fc05fe81c39",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x38dbd462e53328d523805d2af14deff794fd6cf8",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x05ed978cdd38b8918d7527fd4a5c95cb71eda10e",
+		"totalEthTransferred": 0.12027150524636854,
+		"weight": 0.12027150524636854,
+		"tokenAmount": 352922087.8777054
+	},
+	{
+		"account": "0x756f9f3857338a5fa66acccb1d155f0869a2defb",
+		"totalEthTransferred": 0.35,
+		"weight": 0.35,
+		"tokenAmount": 1027032383.972982
+	},
+	{
+		"account": "0x041574302ed66c31323584a494a4a018b378eca8",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x3e8009516c3fe88acc107d0ce7897f7e8b27f10d",
+		"totalEthTransferred": 0.4,
+		"weight": 0.4,
+		"tokenAmount": 1173751295.9691224
+	},
+	{
+		"account": "0xc36ac9a13e98ea282f1170ecbae7cacf425b3891",
+		"totalEthTransferred": 2.09,
+		"weight": 2.09,
+		"tokenAmount": 6132850521.4386635
+	},
+	{
+		"account": "0x3dd4fca94148e1dfc0d9f4513a1b4cc3754700c3",
+		"totalEthTransferred": 0.0893,
+		"weight": 0.0893,
+		"tokenAmount": 262039976.82510656
+	},
+	{
+		"account": "0xaffeb4306e91da3c29953d0501b0e04992537b46",
+		"totalEthTransferred": 0.4,
+		"weight": 0.4,
+		"tokenAmount": 1173751295.9691224
+	},
+	{
+		"account": "0xf81ca0c17423ef1e918daee6035eeabb99401a89",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0x14b3345bef81e6cb95f9391b3ecdad1dda683a00",
+		"totalEthTransferred": 0.48,
+		"weight": 0.48,
+		"tokenAmount": 1408501555.162947
+	},
+	{
+		"account": "0x85a03ffe188098aeae01551e87fd3a355f35dee2",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x0bdd40a6456e3b7fac613479132156e148a0d7a2",
+		"totalEthTransferred": 0.48,
+		"weight": 0.48,
+		"tokenAmount": 1408501555.162947
+	},
+	{
+		"account": "0x41367592a9a507dbf8ac1a0f5e218210d55c8acc",
+		"totalEthTransferred": 0.07,
+		"weight": 0.07,
+		"tokenAmount": 205406476.7945964
+	},
+	{
+		"account": "0x3822543c5a544c34b7d06fd8ce87edd6571000de",
+		"totalEthTransferred": 0.15000000000000002,
+		"weight": 0.15000000000000002,
+		"tokenAmount": 440156735.98842096
+	},
+	{
+		"account": "0xd5a660976d744ea1ab1b67c84150566551c6d07f",
+		"totalEthTransferred": 0.48,
+		"weight": 0.48,
+		"tokenAmount": 1408501555.162947
+	},
+	{
+		"account": "0x37c3d0e839fa287b9a448edf585e9a4453e30317",
+		"totalEthTransferred": 0.48,
+		"weight": 0.48,
+		"tokenAmount": 1408501555.162947
+	},
+	{
+		"account": "0x6f259136b6a6716483ade8c113dfb88f7edc943b",
+		"totalEthTransferred": 1.43,
+		"weight": 1.43,
+		"tokenAmount": 4196160883.0896125
+	},
+	{
+		"account": "0xdf73efdd4f5e20160677fb4de15784d177692739",
+		"totalEthTransferred": 0.48,
+		"weight": 0.48,
+		"tokenAmount": 1408501555.162947
+	},
+	{
+		"account": "0x6d8b5ab0216a8b285afd3811468b18fbb79852d2",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0xcdeb5acf1e37a340db92d69f403e83986d4fd1ba",
+		"totalEthTransferred": 0.0506640111971051,
+		"weight": 0.0506640111971051,
+		"tokenAmount": 148667372.0039906
+	},
+	{
+		"account": "0xe19e70e58d4506502111c78d10683f5ca14cc572",
+		"totalEthTransferred": 0.245,
+		"weight": 0.245,
+		"tokenAmount": 718922668.7810874
+	},
+	{
+		"account": "0x20e00f708d448799e37c7340619fcc42d227511a",
+		"totalEthTransferred": 0.0511,
+		"weight": 0.0511,
+		"tokenAmount": 149946728.06005538
+	},
+	{
+		"account": "0x281a468b6ca9cae0386456ad91fa67303bfc028e",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0xc8bd060e2d0d0af4999aa4888bcd48bf9264a448",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xf49fcdc52081019b48a91ea35e79302a1ee55164",
+		"totalEthTransferred": 0.17,
+		"weight": 0.17,
+		"tokenAmount": 498844300.78687704
+	},
+	{
+		"account": "0x2fb43513225d11a334fb0ebb66c589c6f06249cd",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xfa547b0408e6e6d95d1ffa8fadbdb374cd2cd497",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0x88215c4d0f6e4d0347b757c38c249f1f23af229a",
+		"totalEthTransferred": 0.0596085210380824,
+		"weight": 0.0596085210380824,
+		"tokenAmount": 174913947.0481298
+	},
+	{
+		"account": "0x5e61e4611b3ad195d60dd25b41be64e3199bfd04",
+		"totalEthTransferred": 0.6,
+		"weight": 0.6,
+		"tokenAmount": 1760626943.9536836
+	},
+	{
+		"account": "0x45d4456dd454d54a4d9b21bb47fe087132c87d40",
+		"totalEthTransferred": 1.5,
+		"weight": 1.5,
+		"tokenAmount": 4401567359.884209
+	},
+	{
+		"account": "0xdef9c9dead60b29887e3d1b0f67e69ea90650d52",
+		"totalEthTransferred": 0.055,
+		"weight": 0.055,
+		"tokenAmount": 161390803.19575432
+	},
+	{
+		"account": "0xd65c6be6cf3fb398fa5ecc5423002b0d8afd95a2",
+		"totalEthTransferred": 0.5,
+		"weight": 0.5,
+		"tokenAmount": 1467189119.961403
+	},
+	{
+		"account": "0x4e1ffc7b919bda65466ec3a6b498300ab417b00e",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xd2d10b8d8fa0999d38a735fbbbf978ab4531595d",
+		"totalEthTransferred": 0.25,
+		"weight": 0.25,
+		"tokenAmount": 733594559.9807014
+	},
+	{
+		"account": "0xfaabc9a5785f094f65c04d835bf21f17d97500c3",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xfd203c8b707e976cdf63cb0125f4eeb264f5057e",
+		"totalEthTransferred": 0.06028656,
+		"weight": 0.06028656,
+		"tokenAmount": 176903569.82380062
+	},
+	{
+		"account": "0x7b1399c411436c566581aa8b2ee028d58855e521",
+		"totalEthTransferred": 0.58,
+		"weight": 0.58,
+		"tokenAmount": 1701939379.1552274
+	},
+	{
+		"account": "0xcf197c5f326b4edf0db6e3b87323542ca6897b9f",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0x4f2e0525b9dbbd89ef30a66adbd52be40f98892d",
+		"totalEthTransferred": 0.3,
+		"weight": 0.3,
+		"tokenAmount": 880313471.9768418
+	},
+	{
+		"account": "0x58aad2cee6d65542bbfd029798ce76ac91728f06",
+		"totalEthTransferred": 0.5960852103808241,
+		"weight": 0.5960852103808241,
+		"tokenAmount": 1749139470.4812982
+	},
+	{
+		"account": "0x849f953be8e793b492da86233c126f0c7050cdb4",
+		"totalEthTransferred": 0.3,
+		"weight": 0.3,
+		"tokenAmount": 880313471.9768418
+	},
+	{
+		"account": "0x88aa9a4b94c346eee8367a403810c8710660af1b",
+		"totalEthTransferred": 0.13,
+		"weight": 0.13,
+		"tokenAmount": 381469171.1899648
+	},
+	{
+		"account": "0xefaf98aacb0096c00a07e59fc65eccd97daab217",
+		"totalEthTransferred": 0.131486348579256,
+		"weight": 0.131486348579256,
+		"tokenAmount": 385830680.1178738
+	},
+	{
+		"account": "0x157e569aaa0a50e5e4b6755c0db5a0d5c00c93a8",
+		"totalEthTransferred": 0.2,
+		"weight": 0.2,
+		"tokenAmount": 586875647.9845612
+	},
+	{
+		"account": "0xe8f89865ef2c60d74ed9478afd8b580901d115cf",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x67537e208e02488415ab646ebff4934f67bdded3",
+		"totalEthTransferred": 0.0501,
+		"weight": 0.0501,
+		"tokenAmount": 147012349.82013258
+	},
+	{
+		"account": "0x3b20ce1e2669e7b8f6214aa7d721209c48df6664",
+		"totalEthTransferred": 0.175,
+		"weight": 0.175,
+		"tokenAmount": 513516191.986491
+	},
+	{
+		"account": "0xc7e4e1c70b61cba4d409e270ac42f8de1ca47d44",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x4b55cdd9399c3e06f05c9ce14431339aeeafe129",
+		"totalEthTransferred": 0.3,
+		"weight": 0.3,
+		"tokenAmount": 880313471.9768418
+	},
+	{
+		"account": "0x9e83aac3bb78f461578548d1cc366a978cc3ccc0",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa907018d61221bc439039ca312d8e72901f95334",
+		"totalEthTransferred": 0.45,
+		"weight": 0.45,
+		"tokenAmount": 1320470207.9652627
+	},
+	{
+		"account": "0x29d6788f3136b4ea61d81b27c93ecd828e67e8c5",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x3896719274be0d148f3569a856a901c098bcc954",
+		"totalEthTransferred": 1.98,
+		"weight": 1.98,
+		"tokenAmount": 5810068915.047155
+	},
+	{
+		"account": "0xb0163239ec0b886a5629e41542730a40052a865a",
+		"totalEthTransferred": 0.08,
+		"weight": 0.08,
+		"tokenAmount": 234750259.19382447
+	},
+	{
+		"account": "0xe91fdd78323417143777729a92b880aa29dd9b1a",
+		"totalEthTransferred": 0.29921127906837575,
+		"weight": 0.29921127906837575,
+		"tokenAmount": 877999066.4377118
+	},
+	{
+		"account": "0xaf114921e8d91c1bb01b5f416e12a552d7473602",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x45b9a89e2ebc175ac7a20837522af17651e9a100",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0x52d373c2887313ace5ded70c327185a5ef90802d",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0x709d3a58f9ded15e00b2d01f0a00c7607e744134",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0x1b8aabdabec35958e6eaf2e9ce925d20036ec743",
+		"totalEthTransferred": 0.052219050403778854,
+		"weight": 0.052219050403778854,
+		"tokenAmount": 153230445.21428087
+	},
+	{
+		"account": "0xefd3abc1edab1c6ee1689e81365b8aecf311adab",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0x3d7d7d4ce118f924e978779e2c4859a97df27fe8",
+		"totalEthTransferred": 0.13564799045038148,
+		"weight": 0.13564799045038148,
+		"tokenAmount": 398042511.466856
+	},
+	{
+		"account": "0xce98bdbaa386c2ae85a1967cef2519feee32c97f",
+		"totalEthTransferred": 0.052,
+		"weight": 0.052,
+		"tokenAmount": 152587668.4759859
+	},
+	{
+		"account": "0x0d1f57ab9c90c0ac0e5685aa317e6ac2259d5655",
+		"totalEthTransferred": 0.102,
+		"weight": 0.102,
+		"tokenAmount": 299306580.4721262
+	},
+	{
+		"account": "0xf04571572a8157bca10329e314435ef9bf82456e",
+		"totalEthTransferred": 0.33699999999999997,
+		"weight": 0.33699999999999997,
+		"tokenAmount": 988885466.8539854
+	},
+	{
+		"account": "0x6dcbce46a8b494c885d0e7b6817d2b519df64467",
+		"totalEthTransferred": 0.14963621,
+		"weight": 0.14963621,
+		"tokenAmount": 439089238.5285194
+	},
+	{
+		"account": "0xe2c075b83e74acbb902719b438cdae49d2bd4a04",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0xd0fe95e085c57c517b62dfc6cbac466c1cc7ca23",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x2701847dcc1d92c9bdefe6272cd0875d3ea06033",
+		"totalEthTransferred": 0.74,
+		"weight": 0.74,
+		"tokenAmount": 2171439897.5428762
+	},
+	{
+		"account": "0x51492934af16d2f824b8579c8da27eba4ed323fb",
+		"totalEthTransferred": 0.073,
+		"weight": 0.073,
+		"tokenAmount": 214209611.51436484
+	},
+	{
+		"account": "0x3b7c36246579d480240a61ae220b596dcbadd6bb",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x3fb714b5ef779855926e18ab9ae6f1676b1efc49",
+		"totalEthTransferred": 0.4,
+		"weight": 0.4,
+		"tokenAmount": 1173751295.9691224
+	},
+	{
+		"account": "0xa97f84118f8e50b44111a727e24fe07785d0c53b",
+		"totalEthTransferred": 0.18,
+		"weight": 0.18,
+		"tokenAmount": 528188083.1861051
+	},
+	{
+		"account": "0x30e7d5de2edce6015ef9c5cfc41b4b2bf8e8cad0",
+		"totalEthTransferred": 2,
+		"weight": 2,
+		"tokenAmount": 5868756479.845612
+	},
+	{
+		"account": "0xc7231880656f8147919b03e8dea07425b4e27e11",
+		"totalEthTransferred": 0.6,
+		"weight": 0.6,
+		"tokenAmount": 1760626943.9536836
+	},
+	{
+		"account": "0x2d2bb19afcdeb889eabc328959353c94ee541f28",
+		"totalEthTransferred": 0.6,
+		"weight": 0.6,
+		"tokenAmount": 1760626943.9536836
+	},
+	{
+		"account": "0xc836fd88e94114b66becbc4ba406e432b192c885",
+		"totalEthTransferred": 0.3363221966644045,
+		"weight": 0.3363221966644045,
+		"tokenAmount": 986896535.495067
+	},
+	{
+		"account": "0x07e064192ded09caa1a803289b763edbc4bf7856",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe4ce491d68e91724268ff2fb6ee48f8d749a49e3",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x951a227744dfd4a97baa1e9a59661c87f12141de",
+		"totalEthTransferred": 1.5,
+		"weight": 1.5,
+		"tokenAmount": 4401567359.884209
+	},
+	{
+		"account": "0xa7b10d7f38548c45767fad4fd944130b3bd65f54",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x192be145787cfb3882e75cff733ab0d3b4e07661",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0x1c10f596fe29a4c75ee707ec2d3eaa5f26845452",
+		"totalEthTransferred": 0.2896558304401203,
+		"weight": 0.36206978805015033,
+		"tokenAmount": 1062449707.3878235
+	},
+	{
+		"account": "0xd207008e6ec7e4cb2b9d84f9ae4607a90a171162",
+		"totalEthTransferred": 0.0555,
+		"weight": 0.069375,
+		"tokenAmount": 203572490.39464465
+	},
+	{
+		"account": "0x12d3faabe1e63346903b2b0cf55f5f48fa2c091b",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x5a55e0dc78d43d7b85de5680efbdd1ae2f923a66",
+		"totalEthTransferred": 0.692,
+		"weight": 0.865,
+		"tokenAmount": 2538237177.533227
+	},
+	{
+		"account": "0xf1781c3e48bf927d79ee655324a36c125ef1d050",
+		"totalEthTransferred": 0.5,
+		"weight": 0.625,
+		"tokenAmount": 1833986399.9517536
+	},
+	{
+		"account": "0x096b171b01b4db8f6ac40dc3002b3c1e80498865",
+		"totalEthTransferred": 0.051,
+		"weight": 0.06375,
+		"tokenAmount": 187066612.79507887
+	},
+	{
+		"account": "0xd4742fd06f5bbe137548bacbc81e7b7781e25751",
+		"totalEthTransferred": 1.4,
+		"weight": 1.75,
+		"tokenAmount": 5135161919.86491
+	},
+	{
+		"account": "0x1b75ec994b76214d36459e2e8eb49686cfa78a18",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x9f0dafd613fc8de6e84d883b9c0efedb70fee0ed",
+		"totalEthTransferred": 0.12525859773342027,
+		"weight": 0.15657324716677534,
+		"tokenAmount": 459445129.4402407
+	},
+	{
+		"account": "0x0192f60d0d98a7617e04a64e2fd5f65907dfc136",
+		"totalEthTransferred": 0.055,
+		"weight": 0.06875,
+		"tokenAmount": 201738503.99469292
+	},
+	{
+		"account": "0x88325fc0a9ac804dda19dda96eed8960b52dfb78",
+		"totalEthTransferred": 0.0585,
+		"weight": 0.07312500000000001,
+		"tokenAmount": 214576408.79435524
+	},
+	{
+		"account": "0x712cc00ca13b635c819fe1f41e5eda9b764f7990",
+		"totalEthTransferred": 0.05628680127587396,
+		"weight": 0.07035850159484244,
+		"tokenAmount": 206458456.07347968
+	},
+	{
+		"account": "0x494a7a4c5710f620b816110adb23a9fafbfd7478",
+		"totalEthTransferred": 0.155,
+		"weight": 0.19375,
+		"tokenAmount": 568535783.9850436
+	},
+	{
+		"account": "0xa43eb512a503c35a1a79c4f9f9d22b8678c4ed20",
+		"totalEthTransferred": 0.319,
+		"weight": 0.39875,
+		"tokenAmount": 1170083323.1692188
+	},
+	{
+		"account": "0xdb6d08ef793fbe380b0cdef0694a5d23e449e7e6",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x0d50faa08ed3488db26b0a6e1f17b8b889f19367",
+		"totalEthTransferred": 0.15,
+		"weight": 0.1875,
+		"tokenAmount": 550195919.9855261
+	},
+	{
+		"account": "0x4f83ee7c6d243fedd657093ff8d76cf2d3fa2cad",
+		"totalEthTransferred": 0.1,
+		"weight": 0.125,
+		"tokenAmount": 366797279.9903507
+	},
+	{
+		"account": "0xb3afd054a3fad1ee8cddf28edc510f4e163dcc5a",
+		"totalEthTransferred": 0.64,
+		"weight": 0.8,
+		"tokenAmount": 2347502591.938245
+	},
+	{
+		"account": "0xbd2d4fc428edbf5654cfd6b29312d49f1f65f12b",
+		"totalEthTransferred": 0.050644574248669,
+		"weight": 0.06330571781083624,
+		"tokenAmount": 185762920.80681148
+	},
+	{
+		"account": "0xbbc5f422d2ae40df5638f969f0d71e4d2f9a2401",
+		"totalEthTransferred": 0.072,
+		"weight": 0.09,
+		"tokenAmount": 264094041.59305254
+	},
+	{
+		"account": "0x34e0db2d2002050d84cc23b39c5709dc460ad14e",
+		"totalEthTransferred": 0.155,
+		"weight": 0.19375,
+		"tokenAmount": 568535783.9850436
+	},
+	{
+		"account": "0xf44ac303961f9af68f5eee9401092e87f60e2198",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x43207d10edff8b9d4f1f36cd8df6266c1f8846ba",
+		"totalEthTransferred": 0.055,
+		"weight": 0.06875,
+		"tokenAmount": 201738503.99469292
+	},
+	{
+		"account": "0x6b425adde44e1a1e43b04203a3ba7592ea1f9fda",
+		"totalEthTransferred": 0.053,
+		"weight": 0.06625,
+		"tokenAmount": 194402558.3948859
+	},
+	{
+		"account": "0x94c25ea64eb6c041f4f363cae311777ffa1ade2e",
+		"totalEthTransferred": 0.05,
+		"weight": 0.0625,
+		"tokenAmount": 183398639.99517536
+	},
+	{
+		"account": "0x1c088cedc44d59c07561813560d9f44755cc5521",
+		"totalEthTransferred": 0.06,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0xb6df0c73e247113b462f5cee1e6bd3d5fd2f63a1",
+		"totalEthTransferred": 1,
+		"weight": 1,
+		"tokenAmount": 2934378239.922806
+	},
+	{
+		"account": "0x3d902ea049d4edffbd55c69ded1ba620f241cb7e",
+		"totalEthTransferred": 0.2475,
+		"weight": 0.2475,
+		"tokenAmount": 726258614.3808944
+	},
+	{
+		"account": "0x12e2aab88771f48f079eb3cc07b4ebbaae71245d",
+		"totalEthTransferred": 0.27331406975278744,
+		"weight": 0.27331406975278744,
+		"tokenAmount": 802006858.9473234
+	},
+	{
+		"account": "0x0e54fb5ebb9a5efe2e755865f4fe5418925cce0d",
+		"totalEthTransferred": 0.09,
+		"weight": 0.09,
+		"tokenAmount": 264094041.59305254
+	},
+	{
+		"account": "0xa7efae728d2936e78bda97dc267687568dd593f3",
+		"totalEthTransferred": 0.05254537,
+		"weight": 0.05254537,
+		"tokenAmount": 154187990.3366926
+	},
+	{
+		"account": "0x6d8b196778404b2c6aa3183886d6bfa05e024b5f",
+		"totalEthTransferred": 0.075,
+		"weight": 0.075,
+		"tokenAmount": 220078367.99421045
+	},
+	{
+		"account": "0xd159bf7165004036b106d01f3cecd74ccafd8daa",
+		"totalEthTransferred": 0.101430488036434,
+		"weight": 0.101430488036434,
+		"tokenAmount": 297635416.9588624
+	},
+	{
+		"account": "0x7c9e3a3bfd63937a1701de00718dc6665912f348",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x61b78895e0978cbf2effe3e96140362fc2dcdb6e",
+		"totalEthTransferred": 0.06266622306027096,
+		"weight": 0.06266622306027096,
+		"tokenAmount": 183886401.32620788
+	},
+	{
+		"account": "0xcfe59b300111e49fee1d35d1a53fb5e345bf115f",
+		"totalEthTransferred": 0.06950452611714236,
+		"weight": 0.06950452611714236,
+		"tokenAmount": 203952569.0142889
+	},
+	{
+		"account": "0x747ea2a56ff70774a1e43a932f25044bea1dcdd2",
+		"totalEthTransferred": 0.051,
+		"weight": 0.051,
+		"tokenAmount": 149653290.2360631
+	},
+	{
+		"account": "0x50896f30dccd05e701fa19082b57bc8d63fbf5a7",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xa5954d79a52b99bf58441994d78e4b85b9d6dc66",
+		"totalEthTransferred": 0.18159311641026726,
+		"weight": 0.18159311641026726,
+		"tokenAmount": 532862889.3140573
+	},
+	{
+		"account": "0x77ae3a0e03957c2967633498c30c1dc30c45d64e",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0xe1567d07a7f695f29437f7b197dd05023adac0fd",
+		"totalEthTransferred": 0.9,
+		"weight": 0.9,
+		"tokenAmount": 2640940415.9305253
+	},
+	{
+		"account": "0x5b3a9c18454fbcf04d8bd0f006bf8f6543443493",
+		"totalEthTransferred": 0.05838751466125787,
+		"weight": 0.05838751466125787,
+		"tokenAmount": 171331052.50516888
+	},
+	{
+		"account": "0x7cb66cfabdec083579c484b26fe77f51c3f7ee89",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xef7a993146f083def38b81b1aa8dea0d098c421c",
+		"totalEthTransferred": 0.1,
+		"weight": 0.1,
+		"tokenAmount": 293437823.9922806
+	},
+	{
+		"account": "0x721bd5af176f340ffe89e045c6ff0abd48004156",
+		"totalEthTransferred": 0.13,
+		"weight": 0.13,
+		"tokenAmount": 381469171.1899648
+	},
+	{
+		"account": "0xa3e28699f4a96323f32eb2c3bfffa823a2b1723c",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x423ad4906d23df9fb8a09d383280f9289c1c73db",
+		"totalEthTransferred": 0.4,
+		"weight": 0.4,
+		"tokenAmount": 1173751295.9691224
+	},
+	{
+		"account": "0x78a071700dcdf1598c9ba7a60a76fbd5367bb3ca",
+		"totalEthTransferred": 0.56,
+		"weight": 0.56,
+		"tokenAmount": 1643251814.3567712
+	},
+	{
+		"account": "0x528fcb665f4f90d9a2b7ac5d66b49fde94a9ecc4",
+		"totalEthTransferred": 0.197033776892324,
+		"weight": 0.197033776892324,
+		"tokenAmount": 578171627.4426404
+	},
+	{
+		"account": "0xdd4dac401917b9c653e2b361a9245cd616c045d4",
+		"totalEthTransferred": 0.07771004807426499,
+		"weight": 0.07771004807426499,
+		"tokenAmount": 228030674.0924783
+	},
+	{
+		"account": "0x5ea7457dfbc91da5b134b768bf6cc17c9a5ede3c",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x73f75ad04252d6a1b49d943d0347b2c95b791096",
+		"totalEthTransferred": 0.15,
+		"weight": 0.15,
+		"tokenAmount": 440156735.9884209
+	},
+	{
+		"account": "0x9b714833bdb683504c459b47b9b002a7b687cb23",
+		"totalEthTransferred": 0.4,
+		"weight": 0.4,
+		"tokenAmount": 1173751295.9691224
+	},
+	{
+		"account": "0xed2b33a0160b12974b3d4dca190325b8fe59df00",
+		"totalEthTransferred": 0.050930337935334496,
+		"weight": 0.050930337935334496,
+		"tokenAmount": 149448875.38936055
+	},
+	{
+		"account": "0x20435b5a27b7b7596b78efa3a8f9dd24145d110f",
+		"totalEthTransferred": 0.06,
+		"weight": 0.06,
+		"tokenAmount": 176062694.39536837
+	},
+	{
+		"account": "0xaa8c3818e13a94741590a96752ec945d498f16e1",
+		"totalEthTransferred": 0.20693891963065808,
+		"weight": 0.20693891963065808,
+		"tokenAmount": 607237062.7573375
+	},
+	{
+		"account": "0x122e02ee178c0fe33e5469141e593470e4efc240",
+		"totalEthTransferred": 0.08,
+		"weight": 0.08,
+		"tokenAmount": 234750259.19382447
+	},
+	{
+		"account": "0x162cd31903398dae32fa628913e22e44e12bf3c7",
+		"totalEthTransferred": 0.12435,
+		"weight": 0.12435,
+		"tokenAmount": 364889934.1344009
+	},
+	{
+		"account": "0x3b575d1541357910de3e2646fc96fc13759ba95f",
+		"totalEthTransferred": 0.056037,
+		"weight": 0.056037,
+		"tokenAmount": 164433753.43055427
+	},
+	{
+		"account": "0xcb8fb2cd7507410b24b5b3e247f6f11fa0b0be0a",
+		"totalEthTransferred": 0.053,
+		"weight": 0.053,
+		"tokenAmount": 155522046.7159087
+	},
+	{
+		"account": "0x40f264c803b913ce7769ab4319b371b95a072103",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0x49ba9485e0f65bf55ee0b69b93f9304687904318",
+		"totalEthTransferred": 0.15071998938931275,
+		"weight": 0.15071998938931275,
+		"tokenAmount": 442269457.18539554
+	},
+	{
+		"account": "0xeb582cdb82ae0a79057d418e6c082b863d2132b9",
+		"totalEthTransferred": 0.05,
+		"weight": 0.05,
+		"tokenAmount": 146718911.9961403
+	},
+	{
+		"account": "0xe087e18723c98def8e1b10863c815347a20bf622",
+		"totalEthTransferred": 1.0499175814697501,
+		"weight": 1.0499175814697501,
+		"tokenAmount": 3080855304.7772145
+	}
+]
